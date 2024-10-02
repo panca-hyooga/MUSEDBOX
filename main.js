@@ -24,6 +24,7 @@ class MUSEDBOX{
     };
     #config = {
         document_head: document.getElementsByTagName("head")[0],
+        document_body: document.getElementsByTagName("body")[0],
         musiccover_path: "assets/covers/",
         sound_path: "assets/sound/",
         musiccover_img_name_extension_placeholder : "0.webp",
@@ -1107,7 +1108,7 @@ class MUSEDBOX{
                 <div class="gchatbox-content">
                     <button class="gchatbox-close">(X)close</button>
                     <div class="gchatbox-room">
-                        hello worldo!
+                        <div id="disqus_thread"></div>
                     </div>
                 </div>
             </div>
