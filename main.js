@@ -1070,6 +1070,10 @@ class MUSEDBOX{
                     this.#gates.prompt.new().set({
                         title: `CREDITS ----`,
                         body: `
+                            MY CHANNEL : <br/>
+                            <ul>
+                                <li><a href="https://www.twitch.tv/punchyandmenggy" target="_blank">TWITCH</a></li>
+                            </ul>
                             LINKS : <br/>
                             <ul>
                                 <li><a href="https://cdn.peroperogames.com/" target="_blank">CHECKOUT PEROPERO OFFICIAL WEBSITE</a></li>
