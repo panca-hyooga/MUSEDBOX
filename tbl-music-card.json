@@ -1,0 +1,5208 @@
+{
+    "status" : true,
+    "message" : "",
+    "content" : [
+        {
+            "id": 1,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Magical Wonderland (More colorful mix)",
+            "logo": "mdb_cv_1.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/gb7YoPbCBsI"
+        },
+        {
+            "id": 2,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Iyaiya",
+            "logo": "mdb_cv_2.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/tj3GdzfuNMA"
+        },
+        {
+            "id": 3,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Wonderful Pain",
+            "logo": "mdb_cv_3.webp",
+            "artist": "Haloweak",
+            "link": "https://youtube.com/embed/ohM8nVQh1-8"
+        },
+        {
+            "id": 4,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Breaking Dawn",
+            "logo": "mdb_cv_4.webp",
+            "artist": "TetraCalyx",
+            "link": "https://youtube.com/embed/BPPGol92jxQ"
+        },
+        {
+            "id": 5,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "单向地铁 (One-way Subway) Feat.karin",
+            "logo": "mdb_cv_5.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/XUSVBPH66z8"
+        },
+        {
+            "id": 6,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Echo over you...",
+            "logo": "mdb_cv_6.webp",
+            "artist": "Apo11o program",
+            "link": "https://youtube.com/embed/b9dv6TlSXpY"
+        },
+        {
+            "id": 7,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Yume Ou Mono Yo feat. Wotoha - Neko Hacker",
+            "logo": "mdb_cv_7.webp",
+            "artist": "[Cosmic Radio 2024] theme song",
+            "link": "https://youtube.com/embed/KDkVixsiCVg"
+        },
+        {
+            "id": 8,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Frost Land",
+            "logo": "mdb_cv_8.webp",
+            "artist": "Zris",
+            "link": "https://youtube.com/embed/3YL_j4BBCnY"
+        },
+        {
+            "id": 9,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Heart-Pounding Flight",
+            "logo": "mdb_cv_9.webp",
+            "artist": "TetraCalyx",
+            "link": "https://youtube.com/embed/ni3NBtYKG_I"
+        },
+        {
+            "id": 10,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Pancake is Love",
+            "logo": "mdb_cv_10.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/vHadN5K0mbQ"
+        },
+        {
+            "id": 11,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "时光涂鸦",
+            "logo": "mdb_cv_11.webp",
+            "artist": "TetraCalyx",
+            "link": "https://youtube.com/embed/5Yrgm0VqFKg"
+        },
+        {
+            "id": 12,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Evolution",
+            "logo": "mdb_cv_12.webp",
+            "artist": "Haloweak",
+            "link": "https://youtube.com/embed/RjvKo5tT6T0"
+        },
+        {
+            "id": 13,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "海豚与广播 feat.Uranyan",
+            "logo": "mdb_cv_13.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/hbB0OIDx2go"
+        },
+        {
+            "id": 14,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Yuki no Shizuku Ame no Oto",
+            "logo": "mdb_cv_14.webp",
+            "artist": "Tianyou feat.Tokyo Tower",
+            "link": "https://youtube.com/embed/8zn0GopllP8"
+        },
+        {
+            "id": 15,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Best One feat.墨橙",
+            "logo": "mdb_cv_15.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/mMSJkaYPGLM"
+        },
+        {
+            "id": 16,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "糖果色恋爱学",
+            "logo": "mdb_cv_16.webp",
+            "artist": "ANK feat.kumako",
+            "link": "https://youtube.com/embed/35FOEZ5Y0uU"
+        },
+        {
+            "id": 17,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Night Wander (cnsouka Remix)",
+            "logo": "mdb_cv_17.webp",
+            "artist": "cnsouka",
+            "link": "https://youtube.com/embed/Q_QGl8coAFg"
+        },
+        {
+            "id": 18,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Dohna Dohna no Uta",
+            "logo": "mdb_cv_18.webp",
+            "artist": "L-Minatsu feat.Tsukino",
+            "link": "https://youtube.com/embed/GFM3c-0U_lQ"
+        },
+        {
+            "id": 19,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Spring Carnival",
+            "logo": "mdb_cv_19.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/qQBxVNtPQWU"
+        },
+        {
+            "id": 20,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "DISCO NIGHT",
+            "logo": "mdb_cv_20.webp",
+            "artist": "ANK feat.kumako",
+            "link": "https://youtube.com/embed/Kp2mxr2Rs6A"
+        },
+        {
+            "id": 21,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Koi no Moonlight",
+            "logo": "mdb_cv_21.webp",
+            "artist": "REDALiCE feat. Tamaki Inuyama",
+            "link": "https://youtube.com/embed/P3F7GTIC-hI"
+        },
+        {
+            "id": 22,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "恋爱语音导航 feat.yousa",
+            "logo": "mdb_cv_22.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/-wco_bbiiKU"
+        },
+        {
+            "id": 23,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Lights of Muse",
+            "logo": "mdb_cv_23.webp",
+            "artist": "Ayatsugu_Otowa",
+            "link": "https://youtube.com/embed/odRsyMrHBGg"
+        },
+        {
+            "id": 24,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "midstream jam",
+            "logo": "mdb_cv_24.webp",
+            "artist": "MusMus",
+            "link": "https://youtube.com/embed/r0tTOirdl0A"
+        },
+        {
+            "id": 25,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Nihao",
+            "logo": "mdb_cv_25.webp",
+            "artist": "MusikM",
+            "link": "https://youtube.com/embed/qkpGcbNmV74"
+        },
+        {
+            "id": 26,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Confession",
+            "logo": "mdb_cv_26.webp",
+            "artist": "Haloweak & G.K",
+            "link": "https://youtube.com/embed/Y6BzgR7a_QM"
+        },
+        {
+            "id": 27,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Galaxy Striker",
+            "logo": "mdb_cv_27.webp",
+            "artist": "M2U",
+            "link": "https://youtube.com/embed/LVaIBu6m7Q0"
+        },
+        {
+            "id": 28,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Departure Road",
+            "logo": "mdb_cv_28.webp",
+            "artist": "daisan",
+            "link": "https://youtube.com/embed/Du63KghG-_I"
+        },
+        {
+            "id": 29,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Bass Telekinesis",
+            "logo": "mdb_cv_29.webp",
+            "artist": "Haloweak",
+            "link": "https://youtube.com/embed/3PlrNqAVERw"
+        },
+        {
+            "id": 30,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Cage of Almeria",
+            "logo": "mdb_cv_30.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/zdfBhYU7U9o"
+        },
+        {
+            "id": 31,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Ira",
+            "logo": "mdb_cv_31.webp",
+            "artist": "Lactic Acid Bacteria",
+            "link": "https://youtube.com/embed/k3cI5YCyn-w"
+        },
+        {
+            "id": 32,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Blackest Luxury Car",
+            "logo": "mdb_cv_32.webp",
+            "artist": "Chicala Lpis",
+            "link": "https://youtube.com/embed/aLKBGayj2N4"
+        },
+        {
+            "id": 33,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Medicine of Sing",
+            "logo": "mdb_cv_33.webp",
+            "artist": "JurokuNeta.",
+            "link": "https://youtube.com/embed/KpIUVrFKurE"
+        },
+        {
+            "id": 34,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "irregulyze",
+            "logo": "mdb_cv_34.webp",
+            "artist": "daisan",
+            "link": "https://youtube.com/embed/nk6j5RBhKys"
+        },
+        {
+            "id": 35,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "I don't care about Christmas though",
+            "logo": "mdb_cv_35.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/WL6nHzLsPGo"
+        },
+        {
+            "id": 36,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Imaginary World",
+            "logo": "mdb_cv_36.webp",
+            "artist": "uma",
+            "link": "https://youtube.com/embed/ny6P5eeCyrU"
+        },
+        {
+            "id": 37,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Dysthymia",
+            "logo": "mdb_cv_37.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/Kmz0qFkMehI"
+        },
+        {
+            "id": 38,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "新世界より",
+            "logo": "mdb_cv_38.webp",
+            "artist": "綾奈なな (Prod.Aya2g+Works)",
+            "link": "https://youtube.com/embed/wdXB3VlXH-Y"
+        },
+        {
+            "id": 39,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "NISEGAO",
+            "logo": "mdb_cv_39.webp",
+            "artist": "Tianyou",
+            "link": "https://youtube.com/embed/G1gd52_-lRI"
+        },
+        {
+            "id": 40,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Say! Fanfare!",
+            "logo": "mdb_cv_40.webp",
+            "artist": "Fubuki Shirakami",
+            "link": "https://youtube.com/embed/1mQ57oJDp8o"
+        },
+        {
+            "id": 41,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Star Driver",
+            "logo": "mdb_cv_41.webp",
+            "artist": "iKz feat.Qiyou",
+            "link": "https://youtube.com/embed/HRNdFHe6cKU"
+        },
+        {
+            "id": 42,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Formation",
+            "logo": "mdb_cv_42.webp",
+            "artist": "SLT",
+            "link": "https://youtube.com/embed/uJl-bUhKCzY"
+        },
+        {
+            "id": 43,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Shinsou Masui",
+            "logo": "mdb_cv_43.webp",
+            "artist": "iKz",
+            "link": "https://youtube.com/embed/-oHP0I_l3ws"
+        },
+        {
+            "id": 44,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Mezame Eurythmics",
+            "logo": "mdb_cv_44.webp",
+            "artist": "bermei.inazawa",
+            "link": "https://youtube.com/embed/ZUR2FTN5PvQ"
+        },
+        {
+            "id": 45,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Shenri Kuaira -repeat-",
+            "logo": "mdb_cv_45.webp",
+            "artist": "bermei.inazawa",
+            "link": "https://youtube.com/embed/AHS__zAjXdI"
+        },
+        {
+            "id": 46,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Latitude",
+            "logo": "mdb_cv_46.webp",
+            "artist": "SLT",
+            "link": "https://youtube.com/embed/F_bUIiEP9q8"
+        },
+        {
+            "id": 47,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Aqua Stars",
+            "logo": "mdb_cv_47.webp",
+            "artist": "Sound Souler",
+            "link": "https://youtube.com/embed/yL7oZy90U0I"
+        },
+        {
+            "id": 48,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Funkotsu Saishin Casino",
+            "logo": "mdb_cv_48.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/2UoNrIDbb8U"
+        },
+        {
+            "id": 49,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Clock Room & Spiritual World",
+            "logo": "mdb_cv_49.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/D60rBnTPRG4"
+        },
+        {
+            "id": 50,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "INTERNET OVERDOSE (Aiobahn feat.KOTOKO)",
+            "logo": "mdb_cv_50.webp",
+            "artist": "'NEEDY STREAMER OVERLOAD' theme song",
+            "link": "https://youtube.com/embed/snNR3wOv-9c"
+        },
+        {
+            "id": 51,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "徒 花 Tu Hua",
+            "logo": "mdb_cv_51.webp",
+            "artist": "Aya.Tsumi",
+            "link": "https://youtube.com/embed/1eW9rc6QujQ"
+        },
+        {
+            "id": 52,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Mujinku-Vacuum Track#ADD8E6-",
+            "logo": "mdb_cv_52.webp",
+            "artist": "NoKANY",
+            "link": "https://youtube.com/embed/1pS7H0idJok"
+        },
+        {
+            "id": 53,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "MilK",
+            "logo": "mdb_cv_53.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/2CJw_rihu5s"
+        },
+        {
+            "id": 54,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "umpopoff",
+            "logo": "mdb_cv_54.webp",
+            "artist": "Mameko",
+            "link": "https://youtube.com/embed/LjW6q7vHJnM"
+        },
+        {
+            "id": 55,
+            "trackPackname": "Default Music",
+            "album": "Default Music",
+            "title": "Mopemope",
+            "logo": "mdb_cv_55.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/nC-bVtpIMd4"
+        },
+        {
+            "id": 56,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning: Nano Core",
+            "title": "Glimmer feat.祈Inory",
+            "logo": "mdb_cv_56.webp",
+            "artist": "kors k",
+            "link": "https://youtube.com/embed/fGwQeeUcT3I"
+        },
+        {
+            "id": 57,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning: Nano Core",
+            "title": "EXIST feat.米雅",
+            "logo": "mdb_cv_57.webp",
+            "artist": "G.K & Haloweak",
+            "link": "https://youtube.com/embed/2yniKxQM1Z4"
+        },
+        {
+            "id": 58,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning: Nano Core",
+            "title": "Irreplaceable feat.夏铜子*",
+            "logo": "mdb_cv_58.webp",
+            "artist": "Haloweak",
+            "link": "https://youtube.com/embed/JeYJD6om_t4"
+        },
+        {
+            "id": 59,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning Vol.1",
+            "title": "Out of Sense",
+            "logo": "mdb_cv_59.webp",
+            "artist": "Sound Souler",
+            "link": "https://youtube.com/embed/XEPkS1gJFx4"
+        },
+        {
+            "id": 60,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning Vol.1",
+            "title": "My Life Is For You",
+            "logo": "mdb_cv_60.webp",
+            "artist": "HyuN feat.Yu-A",
+            "link": "https://youtube.com/embed/s89N3c_aMpo"
+        },
+        {
+            "id": 61,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning Vol.1",
+            "title": "Etude -Sunset-",
+            "logo": "mdb_cv_61.webp",
+            "artist": "Polymath9",
+            "link": "https://youtube.com/embed/NqbEhnt8nVo"
+        },
+        {
+            "id": 62,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning Vol.1",
+            "title": "Goodbye Boss",
+            "logo": "mdb_cv_62.webp",
+            "artist": "KillerBlood",
+            "link": "https://youtube.com/embed/HIg4-I0d5uA"
+        },
+        {
+            "id": 63,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning Vol.1",
+            "title": "Stargazer",
+            "logo": "mdb_cv_63.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/kIyHzF9nNtI"
+        },
+        {
+            "id": 64,
+            "trackPackname": "Default Music",
+            "album": "Budget Is Burning Vol.1",
+            "title": "Lys Tourbillon",
+            "logo": "mdb_cv_64.webp",
+            "artist": "Chicala Lpis",
+            "link": "https://youtube.com/embed/6gbRr_Bqxtc"
+        },
+        {
+            "id": 1000,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM105",
+            "title": "disco light",
+            "logo": "mdb_cv_1000.webp",
+            "artist": "Shibayan feat. Rainych",
+            "link": "https://youtube.com/embed/Ufe3wMWDho8"
+        },
+        {
+            "id": 1001,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM105",
+            "title": "room light feat.chancylemon",
+            "logo": "mdb_cv_1001.webp",
+            "artist": "JAWZZ",
+            "link": "https://youtube.com/embed/X38HnmaN_BI"
+        },
+        {
+            "id": 1002,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM105",
+            "title": "Invisible",
+            "logo": "mdb_cv_1002.webp",
+            "artist": "Uiro",
+            "link": "https://youtube.com/embed/0fqSyieXolc"
+        },
+        {
+            "id": 1003,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM105",
+            "title": "圣诞季-LLABB",
+            "logo": "mdb_cv_1003.webp",
+            "artist": "JAWZZ",
+            "link": "https://youtube.com/embed/SNErdFsebDI"
+        },
+        {
+            "id": 1004,
+            "trackPackname": "Concept Pack",
+            "album": "Novice Rider Pack",
+            "title": "SUPERHERO",
+            "logo": "mdb_cv_1004.webp",
+            "artist": "YUC'e",
+            "link": "https://youtube.com/embed/ci62urpg9RY"
+        },
+        {
+            "id": 1005,
+            "trackPackname": "Concept Pack",
+            "album": "Novice Rider Pack",
+            "title": "Highway_Summer",
+            "logo": "mdb_cv_1005.webp",
+            "artist": "Nyarons",
+            "link": "https://youtube.com/embed/qC-uJWGDBJ8"
+        },
+        {
+            "id": 1006,
+            "trackPackname": "Concept Pack",
+            "album": "Novice Rider Pack",
+            "title": "Mx. Black Box",
+            "logo": "mdb_cv_1006.webp",
+            "artist": "PHAZE",
+            "link": "https://youtube.com/embed/YHrX2-DptU0"
+        },
+        {
+            "id": 1007,
+            "trackPackname": "Concept Pack",
+            "album": "Novice Rider Pack",
+            "title": "Sweet Encounter",
+            "logo": "mdb_cv_1007.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/jx73zB_Kp-4"
+        },
+        {
+            "id": 1008,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "P E R O P E R O兄✰貴✰乱✰舞(feat.音游部, howsoon)",
+            "logo": "mdb_cv_1008.webp",
+            "artist": "Mrguai",
+            "link": "https://youtube.com/embed/VNMY9_Sj5ts"
+        },
+        {
+            "id": 1009,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "PA☆PPA☆PANIC",
+            "logo": "mdb_cv_1009.webp",
+            "artist": "Tanchiky",
+            "link": "https://youtube.com/embed/tID2OghixiM"
+        },
+        {
+            "id": 1010,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "How To Make 音ゲ～曲!",
+            "logo": "mdb_cv_1010.webp",
+            "artist": "F Rabbeat feat.マスタード",
+            "link": "https://youtube.com/embed/Ljjut210k90"
+        },
+        {
+            "id": 1011,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "Ré:Ré",
+            "logo": "mdb_cv_1011.webp",
+            "artist": "Morimori Atsushi vs. uma",
+            "link": "https://youtube.com/embed/MV3nWuZV9To"
+        },
+        {
+            "id": 1012,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "Marmalade Twins",
+            "logo": "mdb_cv_1012.webp",
+            "artist": "irucaice feat.ななひら&ころねぽち",
+            "link": "https://youtube.com/embed/4gGOryDQkso"
+        },
+        {
+            "id": 1013,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "DOMINATOR",
+            "logo": "mdb_cv_1013.webp",
+            "artist": "NOMA",
+            "link": "https://youtube.com/embed/5W3d5iEyEh4"
+        },
+        {
+            "id": 1014,
+            "trackPackname": "Concept Pack",
+            "album": "Legends of Muse Warriors",
+            "title": "てしかに(TESHiKANi)",
+            "logo": "mdb_cv_1014.webp",
+            "artist": "Wotoha",
+            "link": "https://youtube.com/embed/WySpF599vDk"
+        },
+        {
+            "id": 1015,
+            "trackPackname": "Concept Pack",
+            "album": "Valentine Stage",
+            "title": "Sweet Dream(VIVINOS - 'Alien Stage OST Part.2')",
+            "logo": "mdb_cv_1015.webp",
+            "artist": "STUDIO LICO",
+            "link": "https://youtube.com/embed/DT2g3SH7VS0"
+        },
+        {
+            "id": 1016,
+            "trackPackname": "Concept Pack",
+            "album": "Valentine Stage",
+            "title": "Ruler Of My Heart(VIVINOS - 'Alien Stage Pt5')",
+            "logo": "mdb_cv_1016.webp",
+            "artist": "STUDIO LICO",
+            "link": "https://youtube.com/embed/lf5LdH8eGTk"
+        },
+        {
+            "id": 1017,
+            "trackPackname": "Concept Pack",
+            "album": "Valentine Stage",
+            "title": "Reality Show",
+            "logo": "mdb_cv_1017.webp",
+            "artist": "memex",
+            "link": "https://youtube.com/embed/-v9ie4iM4l0"
+        },
+        {
+            "id": 1018,
+            "trackPackname": "Concept Pack",
+            "album": "Valentine Stage",
+            "title": "SIG feat.Tobokegao",
+            "logo": "mdb_cv_1018.webp",
+            "artist": "JAWZZ",
+            "link": "https://youtube.com/embed/j70tpHX7Eus"
+        },
+        {
+            "id": 1019,
+            "trackPackname": "Concept Pack",
+            "album": "Valentine Stage",
+            "title": "蔷薇の恋心 feat.AKA",
+            "logo": "mdb_cv_1019.webp",
+            "artist": "Mrguai",
+            "link": "https://youtube.com/embed/d6w2nss-W84"
+        },
+        {
+            "id": 1020,
+            "trackPackname": "Concept Pack",
+            "album": "Valentine Stage",
+            "title": "Euphoria",
+            "logo": "mdb_cv_1020.webp",
+            "artist": "Andora",
+            "link": "https://youtube.com/embed/vvzeadpD4RQ"
+        },
+        {
+            "id": 1021,
+            "trackPackname": "Concept Pack",
+            "album": "Gambler's Tricks",
+            "title": "New York Back Raise",
+            "logo": "mdb_cv_1021.webp",
+            "artist": "saaa + kei_iwata + stuv + *wakadori",
+            "link": "https://youtube.com/embed/sCxdDPO4zB0"
+        },
+        {
+            "id": 1022,
+            "trackPackname": "Concept Pack",
+            "album": "Gambler's Tricks",
+            "title": "slic.hertz",
+            "logo": "mdb_cv_1022.webp",
+            "artist": "Sobrem",
+            "link": "https://youtube.com/embed/G_YBwHWiRW0"
+        },
+        {
+            "id": 1023,
+            "trackPackname": "Concept Pack",
+            "album": "Gambler's Tricks",
+            "title": "Fuzzy-Navel",
+            "logo": "mdb_cv_1023.webp",
+            "artist": "*wakadori",
+            "link": "https://youtube.com/embed/tUeS0K7v4RA"
+        },
+        {
+            "id": 1024,
+            "trackPackname": "Concept Pack",
+            "album": "Gambler's Tricks",
+            "title": "Swing Edge",
+            "logo": "mdb_cv_1024.webp",
+            "artist": "BlackY",
+            "link": "https://youtube.com/embed/r3Oj1xCZzP4"
+        },
+        {
+            "id": 1025,
+            "trackPackname": "Concept Pack",
+            "album": "Gambler's Tricks",
+            "title": "Twisted Escape",
+            "logo": "mdb_cv_1025.webp",
+            "artist": "xi",
+            "link": "https://youtube.com/embed/jPB0M_nlgek"
+        },
+        {
+            "id": 1026,
+            "trackPackname": "Concept Pack",
+            "album": "Gambler's Tricks",
+            "title": "Swing Sweet Twee Dance",
+            "logo": "mdb_cv_1026.webp",
+            "artist": "U-ske feat. Nanaki Nana",
+            "link": "https://youtube.com/embed/G0UOP8A3CB4"
+        },
+        {
+            "id": 1027,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "すとり～ま～FIRE!?!?",
+            "logo": "mdb_cv_1027.webp",
+            "artist": "F Rabbeat feat.マスタード",
+            "link": "https://youtube.com/embed/0AX12dYNjKQ"
+        },
+        {
+            "id": 1028,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "Tanuki Step",
+            "logo": "mdb_cv_1028.webp",
+            "artist": "Scheol X M2U",
+            "link": "https://youtube.com/embed/cMOYw5WkfLc"
+        },
+        {
+            "id": 1029,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "Space Stationery",
+            "logo": "mdb_cv_1029.webp",
+            "artist": "ぱらどっと",
+            "link": "https://youtube.com/embed/x-YaJAFnKoM"
+        },
+        {
+            "id": 1030,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "Songs Are Judged 90% by Chorus feat. Mameko",
+            "logo": "mdb_cv_1030.webp",
+            "artist": "Kijibato",
+            "link": "https://youtube.com/embed/8bMXIWBxfp4"
+        },
+        {
+            "id": 1031,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "Kawaiク華麗に宇宙怪盗",
+            "logo": "mdb_cv_1031.webp",
+            "artist": "打打だいず Vs. Tanchiky",
+            "link": "https://youtube.com/embed/17la5SPP4ro"
+        },
+        {
+            "id": 1032,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "Night City Runway",
+            "logo": "mdb_cv_1032.webp",
+            "artist": "KWANSAI Gakkyoku Hozen Kyokai feat. Yoshina Haramori",
+            "link": "https://youtube.com/embed/9JcBMqmhxAM"
+        },
+        {
+            "id": 1033,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "Chaos Shotgun feat. ChumuNote",
+            "logo": "mdb_cv_1033.webp",
+            "artist": "Twinfield",
+            "link": "https://youtube.com/embed/4VrjXeLGNIY"
+        },
+        {
+            "id": 1034,
+            "trackPackname": "Concept Pack",
+            "album": "COSMIC RADIO PEROLIST",
+            "title": "mew mew magical summer",
+            "logo": "mdb_cv_1034.webp",
+            "artist": "uynet",
+            "link": "https://youtube.com/embed/MkeO-uR86ns"
+        },
+        {
+            "id": 1035,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM104",
+            "title": "Doki Doki Jump! (feat. ぷにぷに電機)",
+            "logo": "mdb_cv_1035.webp",
+            "artist": "Club2Tokyo",
+            "link": "https://youtube.com/embed/-lATa-xKwIw"
+        },
+        {
+            "id": 1036,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM104",
+            "title": "100年モノのストリーマーズ・ハイ",
+            "logo": "mdb_cv_1036.webp",
+            "artist": "D.watt feat. 紡音れい",
+            "link": "https://youtube.com/embed/2_gXKxcFsKw"
+        },
+        {
+            "id": 1037,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM104",
+            "title": "Love Patrol (恋爱巡航 - 砂糖协会)",
+            "logo": "mdb_cv_1037.webp",
+            "artist": "Sugar&Co.",
+            "link": "https://youtube.com/embed/PmrQyBr1RGw"
+        },
+        {
+            "id": 1038,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM104",
+            "title": "Mahorova feat.omoto",
+            "logo": "mdb_cv_1038.webp",
+            "artist": "JAWZZ",
+            "link": "https://youtube.com/embed/KW-m-UpY4_Y"
+        },
+        {
+            "id": 1039,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM104",
+            "title": "夜の街",
+            "logo": "mdb_cv_1039.webp",
+            "artist": "HiRO.JP",
+            "link": "https://youtube.com/embed/nMydd0EELxk"
+        },
+        {
+            "id": 1040,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM104",
+            "title": "INTERNET YAMERO（Aiobahn feat.KOTOKO）",
+            "logo": "mdb_cv_1040.webp",
+            "artist": "From 'NEEDY STREAMER OVERLOAD'",
+            "link": "https://youtube.com/embed/51GIxXFKbzk"
+        },
+        {
+            "id": 1041,
+            "trackPackname": "Concept Pack",
+            "album": "Ola Dash",
+            "title": "MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ",
+            "logo": "mdb_cv_1041.webp",
+            "artist": "Rish",
+            "link": "https://youtube.com/embed/plzDoBdYMXI"
+        },
+        {
+            "id": 1042,
+            "trackPackname": "Concept Pack",
+            "album": "Ola Dash",
+            "title": "Aleph-0",
+            "logo": "mdb_cv_1042.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/6WsM9ExX7Bg"
+        },
+        {
+            "id": 1043,
+            "trackPackname": "Concept Pack",
+            "album": "Ola Dash",
+            "title": "ぶっとばスーパーノヴァ",
+            "logo": "mdb_cv_1043.webp",
+            "artist": "ななひら&ころねぽち",
+            "link": "https://youtube.com/embed/bEx7jsaBfB4"
+        },
+        {
+            "id": 1044,
+            "trackPackname": "Concept Pack",
+            "album": "Ola Dash",
+            "title": "Rush-Hour",
+            "logo": "mdb_cv_1044.webp",
+            "artist": "litmus*",
+            "link": "https://youtube.com/embed/xkUjkxNYLKs"
+        },
+        {
+            "id": 1045,
+            "trackPackname": "Concept Pack",
+            "album": "Ola Dash",
+            "title": "3rd Avenue",
+            "logo": "mdb_cv_1045.webp",
+            "artist": "Sound Souler",
+            "link": "https://youtube.com/embed/zK6sR_ehHHU"
+        },
+        {
+            "id": 1046,
+            "trackPackname": "Concept Pack",
+            "album": "Ola Dash",
+            "title": "WORLDINVADER",
+            "logo": "mdb_cv_1046.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/YHCZN5vJPlg"
+        },
+        {
+            "id": 1047,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM103",
+            "title": "marooned night",
+            "logo": "mdb_cv_1047.webp",
+            "artist": "Sugar & Co.",
+            "link": "https://youtube.com/embed/BO1tysujj-I"
+        },
+        {
+            "id": 1048,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM103",
+            "title": "daydream girl",
+            "logo": "mdb_cv_1048.webp",
+            "artist": "ANK/早木旋子",
+            "link": "https://youtube.com/embed/an_RkoZmb9k"
+        },
+        {
+            "id": 1049,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM103",
+            "title": "Ornamentじゃない(Muse Dash Mix)",
+            "logo": "mdb_cv_1049.webp",
+            "artist": "There are olives with Sugar & Co.",
+            "link": "https://youtube.com/embed/QXIyP9hDceU"
+        },
+        {
+            "id": 1050,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM103",
+            "title": "Baby Pink (w/ YUC'e)",
+            "logo": "mdb_cv_1050.webp",
+            "artist": "Moe Shop",
+            "link": "https://youtube.com/embed/3jWxnuvmDkk"
+        },
+        {
+            "id": 1051,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM103",
+            "title": "I'm Here",
+            "logo": "mdb_cv_1051.webp",
+            "artist": "Aiobahn",
+            "link": "https://youtube.com/embed/Wwrgx6g_M-I"
+        },
+        {
+            "id": 1052,
+            "trackPackname": "Concept Pack",
+            "album": "Virtual Idol Production",
+            "title": "假面日记",
+            "logo": "mdb_cv_1052.webp",
+            "artist": "小野道ono feat.早木旋子",
+            "link": "https://youtube.com/embed/UqjQunjjnqU"
+        },
+        {
+            "id": 1053,
+            "trackPackname": "Concept Pack",
+            "album": "Virtual Idol Production",
+            "title": "Reminiscence",
+            "logo": "mdb_cv_1053.webp",
+            "artist": "technoplanet feat. AMAKI OKOME (from KAWAII MUSIC)",
+            "link": "https://youtube.com/embed/vEVofLqpULI"
+        },
+        {
+            "id": 1054,
+            "trackPackname": "Concept Pack",
+            "album": "Virtual Idol Production",
+            "title": "DarakuDatenshi",
+            "logo": "mdb_cv_1054.webp",
+            "artist": "Project Mons feat.KurumiUsa",
+            "link": "https://youtube.com/embed/e6gqww-qndU"
+        },
+        {
+            "id": 1055,
+            "trackPackname": "Concept Pack",
+            "album": "Virtual Idol Production",
+            "title": "D.I.Y.",
+            "logo": "mdb_cv_1055.webp",
+            "artist": "BOOGEY VOXX",
+            "link": "https://youtube.com/embed/xl5cH2qVdXA"
+        },
+        {
+            "id": 1056,
+            "trackPackname": "Concept Pack",
+            "album": "Virtual Idol Production",
+            "title": "男子in☆バーチャランド",
+            "logo": "mdb_cv_1056.webp",
+            "artist": "IOSYS",
+            "link": "https://youtube.com/embed/Rr1HFlA_YZ0"
+        },
+        {
+            "id": 1057,
+            "trackPackname": "Concept Pack",
+            "album": "Virtual Idol Production",
+            "title": "kuí (夔)",
+            "logo": "mdb_cv_1057.webp",
+            "artist": "Apo11o program ft.ドーラ（にじさんじ）",
+            "link": "https://youtube.com/embed/XBrAROmLuqc"
+        },
+        {
+            "id": 1058,
+            "trackPackname": "Concept Pack",
+            "album": "Nyanya Universe!",
+            "title": "NyanCat",
+            "logo": "mdb_cv_1058.webp",
+            "artist": "daniwell",
+            "link": "https://youtube.com/embed/hf8h-rAVC4U"
+        },
+        {
+            "id": 1059,
+            "trackPackname": "Concept Pack",
+            "album": "Nyanya Universe!",
+            "title": "PeroPero in the Universe (ペロペロ)",
+            "logo": "mdb_cv_1059.webp",
+            "artist": "Rish feat.Choko",
+            "link": "https://youtube.com/embed/9JfeMP1Zlsw"
+        },
+        {
+            "id": 1060,
+            "trackPackname": "Concept Pack",
+            "album": "Nyanya Universe!",
+            "title": "In-kya Yo-kya Onmyoji",
+            "logo": "mdb_cv_1060.webp",
+            "artist": "Hige Driver",
+            "link": "https://youtube.com/embed/bswNW3EFQEg"
+        },
+        {
+            "id": 1061,
+            "trackPackname": "Concept Pack",
+            "album": "Nyanya Universe!",
+            "title": "KABOOOOOM!!!!",
+            "logo": "mdb_cv_1061.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/lJi9keh1Ap8"
+        },
+        {
+            "id": 1062,
+            "trackPackname": "Concept Pack",
+            "album": "Nyanya Universe!",
+            "title": "Doppelganger",
+            "logo": "mdb_cv_1062.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/Xx3QSxV4ZKQ"
+        },
+        {
+            "id": 1063,
+            "trackPackname": "Concept Pack",
+            "album": "DokiDoki! Valentine!",
+            "title": "Pray a LOVE",
+            "logo": "mdb_cv_1063.webp",
+            "artist": "BOOGEY VOXX",
+            "link": "https://youtube.com/embed/NOThNfqs9T8"
+        },
+        {
+            "id": 1064,
+            "trackPackname": "Concept Pack",
+            "album": "DokiDoki! Valentine!",
+            "title": "恋愛回避依存症",
+            "logo": "mdb_cv_1064.webp",
+            "artist": "Matthiola Records",
+            "link": "https://youtube.com/embed/pi-qdh647cA"
+        },
+        {
+            "id": 1065,
+            "trackPackname": "Concept Pack",
+            "album": "DokiDoki! Valentine!",
+            "title": "Daisuki Dayo feat.Wotoha",
+            "logo": "mdb_cv_1065.webp",
+            "artist": "Neko Hacker",
+            "link": "https://youtube.com/embed/ZM5HFf2N_3o"
+        },
+        {
+            "id": 1066,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "去剪海的日子",
+            "logo": "mdb_cv_1066.webp",
+            "artist": "Sugar & Co.",
+            "link": "https://youtube.com/embed/aOswDEEQ-zQ"
+        },
+        {
+            "id": 1067,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "happy hour",
+            "logo": "mdb_cv_1067.webp",
+            "artist": "Sugar & Co.",
+            "link": "https://youtube.com/embed/qPw_QNc342Y"
+        },
+        {
+            "id": 1068,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "Seikimatsu no Natsu",
+            "logo": "mdb_cv_1068.webp",
+            "artist": "Tenyu & Myanna",
+            "link": "https://youtube.com/embed/vic0k7U_lcE"
+        },
+        {
+            "id": 1069,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "twinkle night",
+            "logo": "mdb_cv_1069.webp",
+            "artist": "nyankobrq & yaca feat. somunia",
+            "link": "https://youtube.com/embed/UglGF5bEZPA"
+        },
+        {
+            "id": 1070,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "ARUYA HARERUYA (アルヤハレルヤ - シオカラ)",
+            "logo": "mdb_cv_1070.webp",
+            "artist": "CIOCALA（Haruka Toki + TEA）",
+            "link": "https://youtube.com/embed/GI8pskWmmcc"
+        },
+        {
+            "id": 1071,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "Blush (feat. MYLK)",
+            "logo": "mdb_cv_1071.webp",
+            "artist": "fusq",
+            "link": "https://youtube.com/embed/xyuGg0R62v8"
+        },
+        {
+            "id": 1072,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "裸のSummer",
+            "logo": "mdb_cv_1072.webp",
+            "artist": "There are olives",
+            "link": "https://youtube.com/embed/W1DPz3HNndg"
+        },
+        {
+            "id": 1073,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM102",
+            "title": "BLESS ME(Samplingsource)",
+            "logo": "mdb_cv_1073.webp",
+            "artist": "There are olives",
+            "link": "https://youtube.com/embed/5lQjucoL9_U"
+        },
+        {
+            "id": 1074,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM101",
+            "title": "tape/stop/night",
+            "logo": "mdb_cv_1074.webp",
+            "artist": "Sugar & Co.",
+            "link": "https://youtube.com/embed/ajKKTe2Fl0I"
+        },
+        {
+            "id": 1075,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM101",
+            "title": "Pixel Galaxy",
+            "logo": "mdb_cv_1075.webp",
+            "artist": "Snail's House",
+            "link": "https://youtube.com/embed/aHkjvocxkS4"
+        },
+        {
+            "id": 1076,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM101",
+            "title": "Notice",
+            "logo": "mdb_cv_1076.webp",
+            "artist": "Moe Shop / TORIENA",
+            "link": "https://youtube.com/embed/XJDfLP-PkDA"
+        },
+        {
+            "id": 1077,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM101",
+            "title": "sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ",
+            "logo": "mdb_cv_1077.webp",
+            "artist": "Sugar & Co.",
+            "link": "https://youtube.com/embed/kF0oQJw3_ic"
+        },
+        {
+            "id": 1078,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM101",
+            "title": "OKIMOCHI EXPRESSION",
+            "logo": "mdb_cv_1078.webp",
+            "artist": "DISCO BROTHERS",
+            "link": "https://youtube.com/embed/z4ctNX2ycfk"
+        },
+        {
+            "id": 1079,
+            "trackPackname": "Concept Pack",
+            "album": "MUSE RADIO FM101",
+            "title": "君とpool disco",
+            "logo": "mdb_cv_1079.webp",
+            "artist": "loopcoda",
+            "link": "https://youtube.com/embed/WcagYBKKt7g"
+        },
+        {
+            "id": 2000,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.19",
+            "title": "Urban Magic",
+            "logo": "mdb_cv_2000.webp",
+            "artist": "technoplanet feat. nayuta",
+            "link": "https://youtube.com/embed/eQF35vxe7Nw"
+        },
+        {
+            "id": 2001,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.19",
+            "title": "Maid's Prank",
+            "logo": "mdb_cv_2001.webp",
+            "artist": "Sound Souler",
+            "link": "https://youtube.com/embed/Tug5A8gBsiA"
+        },
+        {
+            "id": 2002,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.19",
+            "title": "Dance Dance 晚安舞会",
+            "logo": "mdb_cv_2002.webp",
+            "artist": "Mrguai/早木旋子/雲夏",
+            "link": "https://youtube.com/embed/3yfc-xnBiLc"
+        },
+        {
+            "id": 2003,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.19",
+            "title": "Ops:Limone",
+            "logo": "mdb_cv_2003.webp",
+            "artist": "Reku Mochizuki",
+            "link": "https://youtube.com/embed/t4uSkennT9U"
+        },
+        {
+            "id": 2004,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.19",
+            "title": "NOVA",
+            "logo": "mdb_cv_2004.webp",
+            "artist": "Notorious(Nota & TRIAL)",
+            "link": "https://youtube.com/embed/eELV4gTu4Vc"
+        },
+        {
+            "id": 2005,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.19",
+            "title": "Heaven's Gradius",
+            "logo": "mdb_cv_2005.webp",
+            "artist": "RyouRyou",
+            "link": "https://youtube.com/embed/ouHqz4QyS9c"
+        },
+        {
+            "id": 2006,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.18",
+            "title": "Rainy Angel (レイニーエンジェル)",
+            "logo": "mdb_cv_2006.webp",
+            "artist": "Morimori Atsushi feat. Namahoshichan",
+            "link": "https://youtube.com/embed/wGV_Y4czJ5U"
+        },
+        {
+            "id": 2007,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.18",
+            "title": "Gullinkambi",
+            "logo": "mdb_cv_2007.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/BGgtn_dJVCU"
+        },
+        {
+            "id": 2008,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.18",
+            "title": "RakiRaki Rebuilders!!!",
+            "logo": "mdb_cv_2008.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/IiKbuvFafUA"
+        },
+        {
+            "id": 2009,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.18",
+            "title": "Laniakea",
+            "logo": "mdb_cv_2009.webp",
+            "artist": "NeLiME",
+            "link": "https://youtube.com/embed/M-e0jaRljAw"
+        },
+        {
+            "id": 2010,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.18",
+            "title": "OTTAMA GAZER",
+            "logo": "mdb_cv_2010.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/wK0bj8-pq3w"
+        },
+        {
+            "id": 2011,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.18",
+            "title": "Sleep Tight feat.Macoto",
+            "logo": "mdb_cv_2011.webp",
+            "artist": "Neko Hacker",
+            "link": "https://youtube.com/embed/hFW2Q4u4-4M"
+        },
+        {
+            "id": 2012,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.17",
+            "title": "【东爱璃Lovely】Lovely",
+            "logo": "mdb_cv_2012.webp",
+            "artist": "Mrguai",
+            "link": "https://youtube.com/embed/sx3rhrb3gVk"
+        },
+        {
+            "id": 2013,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.17",
+            "title": "森海の船",
+            "logo": "mdb_cv_2013.webp",
+            "artist": "Apo11o program ft.Emma Chouette",
+            "link": "https://youtube.com/embed/hOGj6As9vz4"
+        },
+        {
+            "id": 2014,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.17",
+            "title": "Ooi (おーい)",
+            "logo": "mdb_cv_2014.webp",
+            "artist": "NIWASHI feat. やみん",
+            "link": "https://youtube.com/embed/nbFNUB9HSnA"
+        },
+        {
+            "id": 2015,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.17",
+            "title": "沼った！！",
+            "logo": "mdb_cv_2015.webp",
+            "artist": "タケノコ少年 feat. 秋奈",
+            "link": "https://youtube.com/embed/Zy3h-GB5C1I"
+        },
+        {
+            "id": 2016,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.17",
+            "title": "SATELLITE",
+            "logo": "mdb_cv_2016.webp",
+            "artist": "NOMA",
+            "link": "https://youtube.com/embed/LqYGD9trvRg"
+        },
+        {
+            "id": 2017,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.17",
+            "title": "Fantasia Sonata Colorful feat. V!C",
+            "logo": "mdb_cv_2017.webp",
+            "artist": "PYKAMIA",
+            "link": "https://youtube.com/embed/FkkqVu7yVfw"
+        },
+        {
+            "id": 2018,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.16",
+            "title": "Tokimeki★Meteostrike 『ときめき★メテオストライク』 (ミルキー☆ハイウェイ劇中歌) by 水無瀬ミナミ",
+            "logo": "mdb_cv_2018.webp",
+            "artist": "TRIFLATS",
+            "link": "https://youtube.com/embed/EZGki_E2yEk"
+        },
+        {
+            "id": 2019,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.16",
+            "title": "Down Low",
+            "logo": "mdb_cv_2019.webp",
+            "artist": "James Landino ft. Raj Ramayya",
+            "link": "https://youtube.com/embed/m8QhhiYCC9Q"
+        },
+        {
+            "id": 2020,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.16",
+            "title": "LOUDER MACHINE",
+            "logo": "mdb_cv_2020.webp",
+            "artist": "NOMA",
+            "link": "https://youtube.com/embed/C4mAd5ouNa4"
+        },
+        {
+            "id": 2021,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.16",
+            "title": "それはもうらぶちゅ",
+            "logo": "mdb_cv_2021.webp",
+            "artist": "タケノコ少年 feat. 周央サンゴ（にじさんじ）",
+            "link": "https://youtube.com/embed/G5wwb3lKxok"
+        },
+        {
+            "id": 2022,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.16",
+            "title": "Rave_Tech",
+            "logo": "mdb_cv_2022.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/for-tPOgCTw"
+        },
+        {
+            "id": 2023,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.16",
+            "title": "Brilliant & Shining! (Game Edit.)",
+            "logo": "mdb_cv_2023.webp",
+            "artist": "Halv",
+            "link": "https://youtube.com/embed/5E0nb9OOMxs"
+        },
+        {
+            "id": 2024,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.15",
+            "title": "On And On!!",
+            "logo": "mdb_cv_2024.webp",
+            "artist": "ETIA. feat. Jenga",
+            "link": "https://youtube.com/embed/_rCAElTAXsQ"
+        },
+        {
+            "id": 2025,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.15",
+            "title": "Trip!",
+            "logo": "mdb_cv_2025.webp",
+            "artist": "FOIV feat.Tomin Yukino",
+            "link": "https://youtube.com/embed/SkzbDxsvzJI"
+        },
+        {
+            "id": 2026,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.15",
+            "title": "Hoshi no otoshimono ほしのおとしもの",
+            "logo": "mdb_cv_2026.webp",
+            "artist": "AAAA",
+            "link": "https://youtube.com/embed/EpQmmcTD_fQ"
+        },
+        {
+            "id": 2027,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.15",
+            "title": "Plucky Race",
+            "logo": "mdb_cv_2027.webp",
+            "artist": "Yomii",
+            "link": "https://youtube.com/embed/ZrkRmMzMNF0"
+        },
+        {
+            "id": 2028,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.15",
+            "title": "Fantasia Sonata Destiny",
+            "logo": "mdb_cv_2028.webp",
+            "artist": "PYKAMIA",
+            "link": "https://youtube.com/embed/xKR4_3ezFSw"
+        },
+        {
+            "id": 2029,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.15",
+            "title": "Run through",
+            "logo": "mdb_cv_2029.webp",
+            "artist": "Ryo Arue",
+            "link": "https://youtube.com/embed/jr-iJp1E8lc"
+        },
+        {
+            "id": 2030,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.14",
+            "title": "Bang!!",
+            "logo": "mdb_cv_2030.webp",
+            "artist": "BOOGEY VOXX",
+            "link": "https://youtube.com/embed/iZ5PMfYFTOI"
+        },
+        {
+            "id": 2031,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.14",
+            "title": "Paradise Ⅱ",
+            "logo": "mdb_cv_2031.webp",
+            "artist": "Sound Souler",
+            "link": "https://youtube.com/embed/WvxDDd4MRBk"
+        },
+        {
+            "id": 2032,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.14",
+            "title": "Symbol",
+            "logo": "mdb_cv_2032.webp",
+            "artist": "Silaver",
+            "link": "https://youtube.com/embed/z6d3qSIuZ6M"
+        },
+        {
+            "id": 2033,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.14",
+            "title": "Nekojarashi ネコジャラシ",
+            "logo": "mdb_cv_2033.webp",
+            "artist": "EmoCosine",
+            "link": "https://youtube.com/embed/zH6sGTO99oI"
+        },
+        {
+            "id": 2034,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.14",
+            "title": "A Philosophical Wanderer",
+            "logo": "mdb_cv_2034.webp",
+            "artist": "tezuka x Yunosuke",
+            "link": "https://youtube.com/embed/OyGWPh_XJgk"
+        },
+        {
+            "id": 2035,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.14",
+            "title": "Isouten",
+            "logo": "mdb_cv_2035.webp",
+            "artist": "Zris",
+            "link": "https://youtube.com/embed/s9Dp7bKURno"
+        },
+        {
+            "id": 2036,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.13",
+            "title": "Party in the HOLLOWood feat. ななひら",
+            "logo": "mdb_cv_2036.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/fBA3kyKTdJA"
+        },
+        {
+            "id": 2037,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.13",
+            "title": "嘤嘤大作战",
+            "logo": "mdb_cv_2037.webp",
+            "artist": "iKz feat.祖娅纳惜",
+            "link": "https://youtube.com/embed/OC58vhew_SE"
+        },
+        {
+            "id": 2038,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.13",
+            "title": "Howlin' Pumpkin",
+            "logo": "mdb_cv_2038.webp",
+            "artist": "brz1128",
+            "link": "https://youtube.com/embed/WfhftR_MCnQ"
+        },
+        {
+            "id": 2039,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.12",
+            "title": "Rush-More",
+            "logo": "mdb_cv_2039.webp",
+            "artist": "litmus*",
+            "link": "https://youtube.com/embed/ITf6e9eY10A"
+        },
+        {
+            "id": 2040,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.12",
+            "title": "Kill My Fortune (ᖽᐸᓰᒪᒪ ᘻᖻ ᖴᓍᖇᖶᑘᘉᘿ)",
+            "logo": "mdb_cv_2040.webp",
+            "artist": "Alice Schach and the Magic Orchestra",
+            "link": "https://youtube.com/embed/gYHR8XyaqsE"
+        },
+        {
+            "id": 2041,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.12",
+            "title": "Yosari Tsukibotaru Suminoborite よさり 月蛍澄み昇りて",
+            "logo": "mdb_cv_2041.webp",
+            "artist": "Kayuki feat. Hiro",
+            "link": "https://youtube.com/embed/9eTYRFGqmuw"
+        },
+        {
+            "id": 2042,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.12",
+            "title": "JUMP! HardCandy",
+            "logo": "mdb_cv_2042.webp",
+            "artist": "Gəyxe/HJLL",
+            "link": "https://youtube.com/embed/FzWGUZkD5Sk"
+        },
+        {
+            "id": 2043,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.12",
+            "title": "Hibari 雲雀",
+            "logo": "mdb_cv_2043.webp",
+            "artist": "Street",
+            "link": "https://youtube.com/embed/1f07sdMiygw"
+        },
+        {
+            "id": 2044,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.12",
+            "title": "OCCHOCO-REST-LESS",
+            "logo": "mdb_cv_2044.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/9A7KhgBY0cQ"
+        },
+        {
+            "id": 2045,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack SP",
+            "title": "MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～",
+            "logo": "mdb_cv_2045.webp",
+            "artist": "rissyuu feat.Choko",
+            "link": "https://youtube.com/embed/ahJ916BmW3E"
+        },
+        {
+            "id": 2046,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack SP",
+            "title": "MARENOL",
+            "logo": "mdb_cv_2046.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/BKl4gZDWP34"
+        },
+        {
+            "id": 2047,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack SP",
+            "title": "僕の和风本当上手 | 僕の和風本当上手",
+            "logo": "mdb_cv_2047.webp",
+            "artist": "老爷 | ボス",
+            "link": "https://youtube.com/embed/yIxCnj2d7vY"
+        },
+        {
+            "id": 2048,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack SP",
+            "title": "Rush B",
+            "logo": "mdb_cv_2048.webp",
+            "artist": "iKz",
+            "link": "https://youtube.com/embed/aSIuYcFKeoo"
+        },
+        {
+            "id": 2049,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack SP",
+            "title": "DataErr0r",
+            "logo": "mdb_cv_2049.webp",
+            "artist": "Cosmograph",
+            "link": "https://youtube.com/embed/mevx85e9QH8"
+        },
+        {
+            "id": 2050,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack SP",
+            "title": "Burn",
+            "logo": "mdb_cv_2050.webp",
+            "artist": "NceS",
+            "link": "https://youtube.com/embed/4NhmcNf7wcE"
+        },
+        {
+            "id": 2051,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.11",
+            "title": "The 90's Decision",
+            "logo": "mdb_cv_2051.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/TNeatjG_nUw"
+        },
+        {
+            "id": 2052,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.11",
+            "title": "Medusa",
+            "logo": "mdb_cv_2052.webp",
+            "artist": "HiTECH NINJA",
+            "link": "https://youtube.com/embed/wWHa_ZKP0Ps"
+        },
+        {
+            "id": 2053,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.11",
+            "title": "Final Step!",
+            "logo": "mdb_cv_2053.webp",
+            "artist": "Lime",
+            "link": "https://youtube.com/embed/v3JExHpJ09s"
+        },
+        {
+            "id": 2054,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.11",
+            "title": "MAGENTA POTION",
+            "logo": "mdb_cv_2054.webp",
+            "artist": "EmoCosine",
+            "link": "https://youtube.com/embed/tP9IBJ9Sw6A"
+        },
+        {
+            "id": 2055,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.11",
+            "title": "Cross†Ray (feat.月下Lia)",
+            "logo": "mdb_cv_2055.webp",
+            "artist": "HyuN",
+            "link": "https://youtube.com/embed/bUr_Sojm2OM"
+        },
+        {
+            "id": 2056,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.11",
+            "title": "Square Lake",
+            "logo": "mdb_cv_2056.webp",
+            "artist": "Mitsuki",
+            "link": "https://youtube.com/embed/3Gfapbz0pL4"
+        },
+        {
+            "id": 2057,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.10",
+            "title": "Heisha Onsha",
+            "logo": "mdb_cv_2057.webp",
+            "artist": "Hige Driver",
+            "link": "https://youtube.com/embed/4mHK7MdiNY4"
+        },
+        {
+            "id": 2058,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.10",
+            "title": "Ginevra",
+            "logo": "mdb_cv_2058.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/CLkuCQz44Pw"
+        },
+        {
+            "id": 2059,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.10",
+            "title": "Paracelestia",
+            "logo": "mdb_cv_2059.webp",
+            "artist": "Nego_tiator",
+            "link": "https://youtube.com/embed/CmJ1VpS7Yg8"
+        },
+        {
+            "id": 2060,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.10",
+            "title": "un secret",
+            "logo": "mdb_cv_2060.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/D9Ff05gF7jg"
+        },
+        {
+            "id": 2061,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.10",
+            "title": "Good Life",
+            "logo": "mdb_cv_2061.webp",
+            "artist": "litmus*",
+            "link": "https://youtube.com/embed/YQTRSCXcVko"
+        },
+        {
+            "id": 2062,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.10",
+            "title": "ニニ-nini-",
+            "logo": "mdb_cv_2062.webp",
+            "artist": "tezuka(テヅカ) × Qayo",
+            "link": "https://youtube.com/embed/-tkjAH2PsZw"
+        },
+        {
+            "id": 2063,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.9",
+            "title": "The Last Page",
+            "logo": "mdb_cv_2063.webp",
+            "artist": "ARForest",
+            "link": "https://youtube.com/embed/qfsonB9ZCk0"
+        },
+        {
+            "id": 2064,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.9",
+            "title": "IKAROS",
+            "logo": "mdb_cv_2064.webp",
+            "artist": "ETIA feat.Jenga",
+            "link": "https://youtube.com/embed/rj7p9hYbuoo"
+        },
+        {
+            "id": 2065,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.9",
+            "title": "Tsukuyomi",
+            "logo": "mdb_cv_2065.webp",
+            "artist": "Halv",
+            "link": "https://youtube.com/embed/WiNMs9rFg6Y"
+        },
+        {
+            "id": 2066,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.9",
+            "title": "Future Stream",
+            "logo": "mdb_cv_2066.webp",
+            "artist": "Qutabire",
+            "link": "https://youtube.com/embed/lt96fWWU47M"
+        },
+        {
+            "id": 2067,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.9",
+            "title": "FULi AUTO SHOOTER",
+            "logo": "mdb_cv_2067.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/rIkTdV46XVU"
+        },
+        {
+            "id": 2068,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.9",
+            "title": "GOODFORTUNE",
+            "logo": "mdb_cv_2068.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/QhXGiLAkWJw"
+        },
+        {
+            "id": 2069,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.8",
+            "title": "Moonlight Banquet",
+            "logo": "mdb_cv_2069.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/oDsTeEIn8sI"
+        },
+        {
+            "id": 2070,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.8",
+            "title": "Flashdance",
+            "logo": "mdb_cv_2070.webp",
+            "artist": "litmus*",
+            "link": "https://youtube.com/embed/t1ZMwkC0cnw"
+        },
+        {
+            "id": 2071,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.8",
+            "title": "INFiNiTE ENERZY -Overdoze-",
+            "logo": "mdb_cv_2071.webp",
+            "artist": "Reku Mochizuki",
+            "link": "https://youtube.com/embed/qya3j9wCjU4"
+        },
+        {
+            "id": 2072,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.8",
+            "title": "One Way Street",
+            "logo": "mdb_cv_2072.webp",
+            "artist": "siqlo",
+            "link": "https://youtube.com/embed/ZKE1v7_xS8Y"
+        },
+        {
+            "id": 2073,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.8",
+            "title": "This Club is Not 4 U",
+            "logo": "mdb_cv_2073.webp",
+            "artist": "EmoCosine",
+            "link": "https://youtube.com/embed/9NMeb-7FnYs"
+        },
+        {
+            "id": 2074,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.8",
+            "title": "ULTRA MEGA HAPPY PARTY!!!",
+            "logo": "mdb_cv_2074.webp",
+            "artist": "Hino Isuka",
+            "link": "https://youtube.com/embed/24ypR3Fbrjo"
+        },
+        {
+            "id": 2075,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.7",
+            "title": "Cotton Candy Wonderland",
+            "logo": "mdb_cv_2075.webp",
+            "artist": "Endorfin.",
+            "link": "https://youtube.com/embed/-Sao64NkHp0"
+        },
+        {
+            "id": 2076,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.7",
+            "title": "Punai Punai Taiso プナイプナイたいそう",
+            "logo": "mdb_cv_2076.webp",
+            "artist": "Rish feat.Choko",
+            "link": "https://youtube.com/embed/0nimLd9pzBQ"
+        },
+        {
+            "id": 2077,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.7",
+            "title": "Fly↑High",
+            "logo": "mdb_cv_2077.webp",
+            "artist": "P4koo(feat.rerone)",
+            "link": "https://youtube.com/embed/jIPZ7S4-WlM"
+        },
+        {
+            "id": 2078,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.7",
+            "title": "prejudice",
+            "logo": "mdb_cv_2078.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/9jfe4UEmoF8"
+        },
+        {
+            "id": 2079,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.7",
+            "title": "The 89's Momentum",
+            "logo": "mdb_cv_2079.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/OualnKdbJGo"
+        },
+        {
+            "id": 2080,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.7",
+            "title": "energy night(DASH mix)",
+            "logo": "mdb_cv_2080.webp",
+            "artist": "KAH",
+            "link": "https://youtube.com/embed/qCIbbv_U31k"
+        },
+        {
+            "id": 2081,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.6",
+            "title": "Elysion's Old Mans",
+            "logo": "mdb_cv_2081.webp",
+            "artist": "Alice Schach and the Magic Orchestra",
+            "link": "https://youtube.com/embed/WS9t6ycu5h0"
+        },
+        {
+            "id": 2082,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.6",
+            "title": "AXION",
+            "logo": "mdb_cv_2082.webp",
+            "artist": "Sakuzyo",
+            "link": "https://youtube.com/embed/DA3hOQ7d8qU"
+        },
+        {
+            "id": 2083,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.6",
+            "title": "Amnesia",
+            "logo": "mdb_cv_2083.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/cuCtNJdEJuk"
+        },
+        {
+            "id": 2084,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.6",
+            "title": "Onsen Dai Sakusen | 温泉大作戦",
+            "logo": "mdb_cv_2084.webp",
+            "artist": "Freezer feat.Kiichigo",
+            "link": "https://youtube.com/embed/-4XQHTuDjNg"
+        },
+        {
+            "id": 2085,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.6",
+            "title": "Gleam stone",
+            "logo": "mdb_cv_2085.webp",
+            "artist": "adaptor",
+            "link": "https://youtube.com/embed/hUO58y7mQjg"
+        },
+        {
+            "id": 2086,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.6",
+            "title": "GOODWORLD",
+            "logo": "mdb_cv_2086.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/9IP2P8_9ewI"
+        },
+        {
+            "id": 2087,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.5",
+            "title": "Brave My Heart",
+            "logo": "mdb_cv_2087.webp",
+            "artist": "uma feat.Mashiro",
+            "link": "https://youtube.com/embed/tJOoE-FTmUk"
+        },
+        {
+            "id": 2088,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.5",
+            "title": "Sakura Fubuki",
+            "logo": "mdb_cv_2088.webp",
+            "artist": "Street",
+            "link": "https://youtube.com/embed/0keUnlH_0IY"
+        },
+        {
+            "id": 2089,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.5",
+            "title": "8bit Adventurer",
+            "logo": "mdb_cv_2089.webp",
+            "artist": "Lime",
+            "link": "https://youtube.com/embed/SC0zj9gaEPs"
+        },
+        {
+            "id": 2090,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.5",
+            "title": "Suffering of screw",
+            "logo": "mdb_cv_2090.webp",
+            "artist": "Sakamiya feat.Yuji Haru",
+            "link": "https://youtube.com/embed/XajZ1LnlHaQ"
+        },
+        {
+            "id": 2091,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.5",
+            "title": "tiny lady",
+            "logo": "mdb_cv_2091.webp",
+            "artist": "Chicala Lpis",
+            "link": "https://youtube.com/embed/iRoShZ50KYY"
+        },
+        {
+            "id": 2092,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.5",
+            "title": "Power Attack",
+            "logo": "mdb_cv_2092.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/Qi9koVOLWUw"
+        },
+        {
+            "id": 2093,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.4",
+            "title": "Leave it Alone",
+            "logo": "mdb_cv_2093.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/BljxVWLaAHc"
+        },
+        {
+            "id": 2094,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.4",
+            "title": "Tsubasa no Oreta Tenshitachi no Requiem | 翼の折れた天使たちのレクイエム",
+            "logo": "mdb_cv_2094.webp",
+            "artist": "Sakamiya feat.Maeno",
+            "link": "https://youtube.com/embed/7e87pF4QC6k"
+        },
+        {
+            "id": 2095,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.4",
+            "title": "Chronomia",
+            "logo": "mdb_cv_2095.webp",
+            "artist": "Lime",
+            "link": "https://youtube.com/embed/hUpV1872pWs"
+        },
+        {
+            "id": 2096,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.4",
+            "title": "Dandelion's Daydream",
+            "logo": "mdb_cv_2096.webp",
+            "artist": "VeetaCrush",
+            "link": "https://youtube.com/embed/1wANr0xlpn8"
+        },
+        {
+            "id": 2097,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.4",
+            "title": "Lorikeet ~Flat design~",
+            "logo": "mdb_cv_2097.webp",
+            "artist": "Tedjimo Yomigy",
+            "link": "https://youtube.com/embed/Rz38caZizFk"
+        },
+        {
+            "id": 2098,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.4",
+            "title": "GOODRAGE",
+            "logo": "mdb_cv_2098.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/B55SjEm4spw"
+        },
+        {
+            "id": 2099,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.3",
+            "title": "Thirty Million Persona",
+            "logo": "mdb_cv_2099.webp",
+            "artist": "Alice Schach and the Magic Orchestra",
+            "link": "https://youtube.com/embed/OWZSWzh2syc"
+        },
+        {
+            "id": 2100,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.3",
+            "title": "conflict",
+            "logo": "mdb_cv_2100.webp",
+            "artist": "siromaru + cranky",
+            "link": "https://youtube.com/embed/jpuNqlHBeUc"
+        },
+        {
+            "id": 2101,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.3",
+            "title": "Enka Dance Music",
+            "logo": "mdb_cv_2101.webp",
+            "artist": "uma with Morimori Atsushi feat.Mashiro",
+            "link": "https://youtube.com/embed/zLpV7AMnbKc"
+        },
+        {
+            "id": 2102,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.3",
+            "title": "XING",
+            "logo": "mdb_cv_2102.webp",
+            "artist": "ginkiha",
+            "link": "https://youtube.com/embed/iNAUG_2AC_o"
+        },
+        {
+            "id": 2103,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.3",
+            "title": "Amakakeru Soukyuu no Serenade",
+            "logo": "mdb_cv_2103.webp",
+            "artist": "Sakamiya feat.Arata Kiki",
+            "link": "https://youtube.com/embed/kBDzIAKYQTA"
+        },
+        {
+            "id": 2104,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.3",
+            "title": "Gift box",
+            "logo": "mdb_cv_2104.webp",
+            "artist": "K.key",
+            "link": "https://youtube.com/embed/tWA6qYsou7Q"
+        },
+        {
+            "id": 2105,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.2",
+            "title": "MUSEDASH!!!!",
+            "logo": "mdb_cv_2105.webp",
+            "artist": "Dan@Yomi",
+            "link": "https://youtube.com/embed/1x6Jz5Mlen8"
+        },
+        {
+            "id": 2106,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.2",
+            "title": "Imprinting",
+            "logo": "mdb_cv_2106.webp",
+            "artist": "Sakuzyo",
+            "link": "https://youtube.com/embed/55Ca6av1kAY"
+        },
+        {
+            "id": 2107,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.2",
+            "title": "Skyward",
+            "logo": "mdb_cv_2107.webp",
+            "artist": "SLT",
+            "link": "https://youtube.com/embed/Fhoo8GHPcbI"
+        },
+        {
+            "id": 2108,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.2",
+            "title": "La nuit de vif",
+            "logo": "mdb_cv_2108.webp",
+            "artist": "Polymath9",
+            "link": "https://youtube.com/embed/psoLXwsq0jc"
+        },
+        {
+            "id": 2109,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.2",
+            "title": "Bit-alize",
+            "logo": "mdb_cv_2109.webp",
+            "artist": "Yamajet",
+            "link": "https://youtube.com/embed/sL_M62xOADE"
+        },
+        {
+            "id": 2110,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.2",
+            "title": "GOODTEK(Hyper Edit)",
+            "logo": "mdb_cv_2110.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/QoUkN1EDYDw"
+        },
+        {
+            "id": 2111,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.1",
+            "title": "Maharajah",
+            "logo": "mdb_cv_2111.webp",
+            "artist": "Alice Schach and the Magic Orchestra",
+            "link": "https://youtube.com/embed/NhYsFAJ2k3Y"
+        },
+        {
+            "id": 2112,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.1",
+            "title": "keep on running",
+            "logo": "mdb_cv_2112.webp",
+            "artist": "uma",
+            "link": "https://youtube.com/embed/WTvCsm0pRH8"
+        },
+        {
+            "id": 2113,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.1",
+            "title": "Käfig",
+            "logo": "mdb_cv_2113.webp",
+            "artist": "Chicala Lpis",
+            "link": "https://youtube.com/embed/UeOnDBl_C70"
+        },
+        {
+            "id": 2114,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.1",
+            "title": "-+",
+            "logo": "mdb_cv_2114.webp",
+            "artist": "daisan",
+            "link": "https://youtube.com/embed/6BWEyUsvAis"
+        },
+        {
+            "id": 2115,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.1",
+            "title": "Tenri Kaku Jou",
+            "logo": "mdb_cv_2115.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/QdvllOW5ITM"
+        },
+        {
+            "id": 2116,
+            "trackPackname": "Happy Otaku Pack",
+            "album": "Happy Otaku Pack Vol.1",
+            "title": "Adjudicatorz-DanZai-",
+            "logo": "mdb_cv_2116.webp",
+            "artist": "JurokuNeta.",
+            "link": "https://youtube.com/embed/fxfVSzMFK3c"
+        },
+        {
+            "id": 3000,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.7",
+            "title": "琉璃色前奏曲",
+            "logo": "mdb_cv_3000.webp",
+            "artist": "Nekock·LK",
+            "link": "https://youtube.com/embed/JOAR3sQhnJM"
+        },
+        {
+            "id": 3001,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.7",
+            "title": "Neonlights | ネオンライト",
+            "logo": "mdb_cv_3001.webp",
+            "artist": "TEMPLIME feat HOSHIMIYA TOTO",
+            "link": "https://youtube.com/embed/3QoBV8Zucs4"
+        },
+        {
+            "id": 3002,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.7",
+            "title": "Hope for the flowers | 花たちに希望を",
+            "logo": "mdb_cv_3002.webp",
+            "artist": "Sound piercer feat.DAZBEE",
+            "link": "https://youtube.com/embed/TO_7d2MLVp0"
+        },
+        {
+            "id": 3003,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.7",
+            "title": "Seaside Cycling on May 30",
+            "logo": "mdb_cv_3003.webp",
+            "artist": "dawn-system feat. OHkun",
+            "link": "https://youtube.com/embed/dl5em88rYlE"
+        },
+        {
+            "id": 3004,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.7",
+            "title": "SKY↑HIGH",
+            "logo": "mdb_cv_3004.webp",
+            "artist": "P4koo(feat.rerone)",
+            "link": "https://youtube.com/embed/CnJ4MxSw3Qk"
+        },
+        {
+            "id": 3005,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.7",
+            "title": "Mousou Chu!!",
+            "logo": "mdb_cv_3005.webp",
+            "artist": "Ponchi feat.haxchi",
+            "link": "https://youtube.com/embed/tnsBX1Aaf94"
+        },
+        {
+            "id": 3006,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.6",
+            "title": "Girly Cupid",
+            "logo": "mdb_cv_3006.webp",
+            "artist": "PSYQUI feat.Marpril",
+            "link": "https://youtube.com/embed/kKosMOCwL0E"
+        },
+        {
+            "id": 3007,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.6",
+            "title": "sheep in the light",
+            "logo": "mdb_cv_3007.webp",
+            "artist": "Marpril",
+            "link": "https://youtube.com/embed/jpi9XycUlwU"
+        },
+        {
+            "id": 3008,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.6",
+            "title": "Breaker city",
+            "logo": "mdb_cv_3008.webp",
+            "artist": "HAMA feat.Marpril",
+            "link": "https://youtube.com/embed/dRRvGcDUzwg"
+        },
+        {
+            "id": 3009,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.6",
+            "title": "heterodoxy",
+            "logo": "mdb_cv_3009.webp",
+            "artist": "memex",
+            "link": "https://youtube.com/embed/FD_VpDF_PJM"
+        },
+        {
+            "id": 3010,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.6",
+            "title": "Computer Music Girl",
+            "logo": "mdb_cv_3010.webp",
+            "artist": "memex",
+            "link": "https://youtube.com/embed/cgzqrBvLSac"
+        },
+        {
+            "id": 3011,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everyting Vol.6",
+            "title": "焦点 feat.早木旋子",
+            "logo": "mdb_cv_3011.webp",
+            "artist": "ANK",
+            "link": "https://youtube.com/embed/FGTwXloFXvE"
+        },
+        {
+            "id": 3012,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.5",
+            "title": "雨后甜点",
+            "logo": "mdb_cv_3012.webp",
+            "artist": "Sugar & Co.（ANK feat.kumako）",
+            "link": "https://youtube.com/embed/vh0euHbzTFU"
+        },
+        {
+            "id": 3013,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.5",
+            "title": "告白应援方程式",
+            "logo": "mdb_cv_3013.webp",
+            "artist": "S9ryne Feat.祈Inory",
+            "link": "https://youtube.com/embed/JH9rybNsBrg"
+        },
+        {
+            "id": 3014,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.5",
+            "title": "Omatsuri feat.兔子ST",
+            "logo": "mdb_cv_3014.webp",
+            "artist": "Nekock•LK",
+            "link": "https://youtube.com/embed/43FnEiH0eiA"
+        },
+        {
+            "id": 3015,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.5",
+            "title": "FUTUREPOP",
+            "logo": "mdb_cv_3015.webp",
+            "artist": "Sugar & Co.（ANK feat.kumako）",
+            "link": "https://youtube.com/embed/085SJyh5Ywk"
+        },
+        {
+            "id": 3016,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.5",
+            "title": "The Breeze",
+            "logo": "mdb_cv_3016.webp",
+            "artist": "sctl feat.Syepias",
+            "link": "https://youtube.com/embed/6Y4HSW6ym0k"
+        },
+        {
+            "id": 3017,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.5",
+            "title": "I LOVE LETTUCE FRIED RICE!!",
+            "logo": "mdb_cv_3017.webp",
+            "artist": "Moroboshi Nana feat.Katou Haruka & Hirose Yuuki",
+            "link": "https://youtube.com/embed/A-jARoHw0cg"
+        },
+        {
+            "id": 3018,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute is Everything Vol.4",
+            "title": "SWEETSWEETSWEET",
+            "logo": "mdb_cv_3018.webp",
+            "artist": "Sugar & Co.（ANK feat.kumako）",
+            "link": "https://youtube.com/embed/mU9Tr9A3Hns"
+        },
+        {
+            "id": 3019,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute is Everything Vol.4",
+            "title": "深蓝与夜的呼吸",
+            "logo": "mdb_cv_3019.webp",
+            "artist": "Sugar & Co.（ANK feat.kumako）",
+            "link": "https://youtube.com/embed/DkP2jwPNdAA"
+        },
+        {
+            "id": 3020,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute is Everything Vol.4",
+            "title": "Joy Connection",
+            "logo": "mdb_cv_3020.webp",
+            "artist": "MusikM / Jun Kuroda",
+            "link": "https://youtube.com/embed/KgbdVbqOEwI"
+        },
+        {
+            "id": 3021,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute is Everything Vol.4",
+            "title": "Self Willed Girl Ver.B",
+            "logo": "mdb_cv_3021.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/eC7TaxHb9nY"
+        },
+        {
+            "id": 3022,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute is Everything Vol.4",
+            "title": "就是不听话",
+            "logo": "mdb_cv_3022.webp",
+            "artist": "iKz feat.Hanser",
+            "link": "https://youtube.com/embed/3BTgouT1Ogs"
+        },
+        {
+            "id": 3023,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute is Everything Vol.4",
+            "title": "Holy Shit Grass Snake",
+            "logo": "mdb_cv_3023.webp",
+            "artist": "麦当叔劳劳",
+            "link": "https://youtube.com/embed/CBAQQOWeuRk"
+        },
+        {
+            "id": 3024,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.3",
+            "title": "魔咒 feat.早木旋子",
+            "logo": "mdb_cv_3024.webp",
+            "artist": "ANK",
+            "link": "https://youtube.com/embed/eQjuYUyLOWs"
+        },
+        {
+            "id": 3025,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.3",
+            "title": "斑斓星，彩绘，旅行诗 | 斑斕星，彩繪，旅行诗",
+            "logo": "mdb_cv_3025.webp",
+            "artist": "cnsouka Feat.karin",
+            "link": "https://youtube.com/embed/gSveV32ejqE"
+        },
+        {
+            "id": 3026,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.3",
+            "title": "Satell Knight",
+            "logo": "mdb_cv_3026.webp",
+            "artist": "UncleWang Feat.kumako",
+            "link": "https://youtube.com/embed/Ls3nWipeM_Y"
+        },
+        {
+            "id": 3027,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.3",
+            "title": "Black River Feat.Mes",
+            "logo": "mdb_cv_3027.webp",
+            "artist": "小野道ono",
+            "link": "https://youtube.com/embed/KoiOpssikzc"
+        },
+        {
+            "id": 3028,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.3",
+            "title": "生而为人，我很抱歉",
+            "logo": "mdb_cv_3028.webp",
+            "artist": "Nekock·LK",
+            "link": "https://youtube.com/embed/x8pHDjXRFfY"
+        },
+        {
+            "id": 3029,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.3",
+            "title": "Ueta Tori Tachi",
+            "logo": "mdb_cv_3029.webp",
+            "artist": "MusikM",
+            "link": "https://youtube.com/embed/9GBMiX7yC3Q"
+        },
+        {
+            "id": 3030,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.2",
+            "title": "速溶霓虹 feat.kumako",
+            "logo": "mdb_cv_3030.webp",
+            "artist": "ANK",
+            "link": "https://youtube.com/embed/5RIUCmvVDK0"
+        },
+        {
+            "id": 3031,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.2",
+            "title": "星球上的追溯诗",
+            "logo": "mdb_cv_3031.webp",
+            "artist": "味素 feat.kumako",
+            "link": "https://youtube.com/embed/HygyKGxVi1k"
+        },
+        {
+            "id": 3032,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.2",
+            "title": "我要买买买",
+            "logo": "mdb_cv_3032.webp",
+            "artist": "iKz",
+            "link": "https://youtube.com/embed/P690zRJvwtA"
+        },
+        {
+            "id": 3033,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.2",
+            "title": "约会宣言 | 約會宣言",
+            "logo": "mdb_cv_3033.webp",
+            "artist": "iKz feat.Hanser",
+            "link": "https://youtube.com/embed/qgfq9IA-GJs"
+        },
+        {
+            "id": 3034,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.2",
+            "title": "初雪",
+            "logo": "mdb_cv_3034.webp",
+            "artist": "KyuRu☆ feat.Yuu Shitsuka",
+            "link": "https://youtube.com/embed/au9E0qp3Xd8"
+        },
+        {
+            "id": 3035,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.2",
+            "title": "心上华海 | 心上華海",
+            "logo": "mdb_cv_3035.webp",
+            "artist": "Nekock·LK",
+            "link": "https://youtube.com/embed/RGYlQEO0RzY"
+        },
+        {
+            "id": 3036,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.1",
+            "title": "Sunshine and Rainbow after August Rain",
+            "logo": "mdb_cv_3036.webp",
+            "artist": "yk!",
+            "link": "https://youtube.com/embed/37ZY0RpyYq4"
+        },
+        {
+            "id": 3037,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.1",
+            "title": "Magical Number",
+            "logo": "mdb_cv_3037.webp",
+            "artist": "味素",
+            "link": "https://youtube.com/embed/fhqwt5mjngc"
+        },
+        {
+            "id": 3038,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.1",
+            "title": "Dreaming Girl",
+            "logo": "mdb_cv_3038.webp",
+            "artist": "Nano&板烧鹅尼子",
+            "link": "https://youtube.com/embed/wI8Tm7B34Y4"
+        },
+        {
+            "id": 3039,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.1",
+            "title": "Daruma-san Fell Over",
+            "logo": "mdb_cv_3039.webp",
+            "artist": "Ncha-P",
+            "link": "https://youtube.com/embed/bTTFMJ7e_q8"
+        },
+        {
+            "id": 3040,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.1",
+            "title": "Different",
+            "logo": "mdb_cv_3040.webp",
+            "artist": "Ncha-P",
+            "link": "https://youtube.com/embed/Bw_CRVmimIs"
+        },
+        {
+            "id": 3041,
+            "trackPackname": "Cute Is Everything",
+            "album": "Cute Is Everything Vol.1",
+            "title": "The Future of the Phantom",
+            "logo": "mdb_cv_3041.webp",
+            "artist": "Ncha-P",
+            "link": "https://youtube.com/embed/zHZ44LfApi4"
+        },
+        {
+            "id": 4000,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.11",
+            "title": "Psyched Fevereiro",
+            "logo": "mdb_cv_4000.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/3mufQ1Tt844"
+        },
+        {
+            "id": 4001,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.11",
+            "title": "Inferno City | インフェルノシティ",
+            "logo": "mdb_cv_4001.webp",
+            "artist": "Ponchi feat.haxchi",
+            "link": "https://youtube.com/embed/vIHmTjIOcBE"
+        },
+        {
+            "id": 4002,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.11",
+            "title": "Paradigm Shift",
+            "logo": "mdb_cv_4002.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/KttKr_fgiCU"
+        },
+        {
+            "id": 4003,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.11",
+            "title": "Snapdragon",
+            "logo": "mdb_cv_4003.webp",
+            "artist": "NeLiME",
+            "link": "https://youtube.com/embed/-YT55m44KpU"
+        },
+        {
+            "id": 4004,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.11",
+            "title": "Prestige and Vestige",
+            "logo": "mdb_cv_4004.webp",
+            "artist": "ikaruga_nex & 影虎。",
+            "link": "https://youtube.com/embed/PCTRvktapug"
+        },
+        {
+            "id": 4005,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.11",
+            "title": "Tiny Fate",
+            "logo": "mdb_cv_4005.webp",
+            "artist": "Capchii",
+            "link": "https://youtube.com/embed/IJFKDeLthtY"
+        },
+        {
+            "id": 4006,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.10",
+            "title": "NightTheater",
+            "logo": "mdb_cv_4006.webp",
+            "artist": "*wakadori",
+            "link": "https://youtube.com/embed/GQypsM4YILM"
+        },
+        {
+            "id": 4007,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.10",
+            "title": "Cutter",
+            "logo": "mdb_cv_4007.webp",
+            "artist": "EmoCosine",
+            "link": "https://youtube.com/embed/zP3NFEaY0KM"
+        },
+        {
+            "id": 4008,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.10",
+            "title": "bamboo | 竹",
+            "logo": "mdb_cv_4008.webp",
+            "artist": "Rish feat.Choko | 立秋 feat.ちょこ",
+            "link": "https://youtube.com/embed/65Smh8rwdJI"
+        },
+        {
+            "id": 4009,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.10",
+            "title": "enchanted love",
+            "logo": "mdb_cv_4009.webp",
+            "artist": "linear ring",
+            "link": "https://youtube.com/embed/qE6mruRB1PA"
+        },
+        {
+            "id": 4010,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.10",
+            "title": "c.s.q.n.",
+            "logo": "mdb_cv_4010.webp",
+            "artist": "Aoi",
+            "link": "https://youtube.com/embed/gE2hEebqqw4"
+        },
+        {
+            "id": 4011,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.10",
+            "title": "Booouncing!!",
+            "logo": "mdb_cv_4011.webp",
+            "artist": "Hino Isuka vs. s-don",
+            "link": "https://youtube.com/embed/zzVNTChxt4k"
+        },
+        {
+            "id": 4012,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.9",
+            "title": "Legend of Eastern Rabbit -SKY DEFENDER-",
+            "logo": "mdb_cv_4012.webp",
+            "artist": "sctl",
+            "link": "https://youtube.com/embed/TAd7MZGCt2w"
+        },
+        {
+            "id": 4013,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.9",
+            "title": "ENERGY SYNERGY MATRIX",
+            "logo": "mdb_cv_4013.webp",
+            "artist": "Tanchiky",
+            "link": "https://youtube.com/embed/2IvwGGW7CpA"
+        },
+        {
+            "id": 4014,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.9",
+            "title": "Punai Punai Genso ~Punai Punai in Wonderland~ |～プナイプナイinワンダーランド～",
+            "logo": "mdb_cv_4014.webp",
+            "artist": "Rish feat.Choko",
+            "link": "https://youtube.com/embed/wdsHp1bSPvQ"
+        },
+        {
+            "id": 4015,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.9",
+            "title": "Better Graphic Animation",
+            "logo": "mdb_cv_4015.webp",
+            "artist": "LUZE",
+            "link": "https://youtube.com/embed/_SG7Kh1KylQ"
+        },
+        {
+            "id": 4016,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.9",
+            "title": "Variant Cross",
+            "logo": "mdb_cv_4016.webp",
+            "artist": "M-UE",
+            "link": "https://youtube.com/embed/4XrzkFQcsEU"
+        },
+        {
+            "id": 4017,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.9",
+            "title": "Ultra Happy Miracle Bazoooooka!!",
+            "logo": "mdb_cv_4017.webp",
+            "artist": "Hino Isuka vs. Umeboshi Chazuke",
+            "link": "https://youtube.com/embed/URa4Pvc_VYE"
+        },
+        {
+            "id": 4018,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.8",
+            "title": "The NightScape",
+            "logo": "mdb_cv_4018.webp",
+            "artist": "litmus*",
+            "link": "https://youtube.com/embed/nQVH-JI_oZQ"
+        },
+        {
+            "id": 4019,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.8",
+            "title": "FREEDOM DiVE↓",
+            "logo": "mdb_cv_4019.webp",
+            "artist": "xi",
+            "link": "https://youtube.com/embed/2rVUoyjuJFU"
+        },
+        {
+            "id": 4020,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.8",
+            "title": "Φ",
+            "logo": "mdb_cv_4020.webp",
+            "artist": "Street",
+            "link": "https://youtube.com/embed/aXu5D9jnUPk"
+        },
+        {
+            "id": 4021,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.8",
+            "title": "Lueur de la nuit",
+            "logo": "mdb_cv_4021.webp",
+            "artist": "AAAA + ck",
+            "link": "https://youtube.com/embed/M64RmiQwoUA"
+        },
+        {
+            "id": 4022,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.8",
+            "title": "Creamy Sugary OVERDRIVE!!!",
+            "logo": "mdb_cv_4022.webp",
+            "artist": "BTB",
+            "link": "https://youtube.com/embed/BvnTLCf7T_8"
+        },
+        {
+            "id": 4023,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.8",
+            "title": "Disorder (feat.YURI)",
+            "logo": "mdb_cv_4023.webp",
+            "artist": "HyuN",
+            "link": "https://youtube.com/embed/6QGRs0H1tj0"
+        },
+        {
+            "id": 4024,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.7",
+            "title": "INFINITY",
+            "logo": "mdb_cv_4024.webp",
+            "artist": "Cosmograph",
+            "link": "https://youtube.com/embed/Y6ErZQja96g"
+        },
+        {
+            "id": 4025,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.7",
+            "title": "Punai Punai Senso | プナイプナイせんそう",
+            "logo": "mdb_cv_4025.webp",
+            "artist": "Rish feat.Choko",
+            "link": "https://youtube.com/embed/_6YPty2JyTM"
+        },
+        {
+            "id": 4026,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.7",
+            "title": "Maxi",
+            "logo": "mdb_cv_4026.webp",
+            "artist": "Nizikawa",
+            "link": "https://youtube.com/embed/6hObnF-oPeg"
+        },
+        {
+            "id": 4027,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.7",
+            "title": "YInMn Blue",
+            "logo": "mdb_cv_4027.webp",
+            "artist": "siqlo",
+            "link": "https://youtube.com/embed/PVg0hJP_4LE"
+        },
+        {
+            "id": 4028,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.7",
+            "title": "Plumage",
+            "logo": "mdb_cv_4028.webp",
+            "artist": "brz1128",
+            "link": "https://youtube.com/embed/vwf8eHqTB70"
+        },
+        {
+            "id": 4029,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.7",
+            "title": "Dr.Techro",
+            "logo": "mdb_cv_4029.webp",
+            "artist": "Meisenp.",
+            "link": "https://youtube.com/embed/lvznBIbX9Yo"
+        },
+        {
+            "id": 4030,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.6",
+            "title": "Future Dive",
+            "logo": "mdb_cv_4030.webp",
+            "artist": "Cosmograph",
+            "link": "https://youtube.com/embed/ZE7FKfYUs7E"
+        },
+        {
+            "id": 4031,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.6",
+            "title": "Re：End of a Dream",
+            "logo": "mdb_cv_4031.webp",
+            "artist": "uma vs. Morimori Atsushi",
+            "link": "https://youtube.com/embed/ayg2A2JoRzg"
+        },
+        {
+            "id": 4032,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.6",
+            "title": "Etude -Storm-",
+            "logo": "mdb_cv_4032.webp",
+            "artist": "Polymath9",
+            "link": "https://youtube.com/embed/kK7Dr34CuRU"
+        },
+        {
+            "id": 4033,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.6",
+            "title": "Unlimited Katharsis",
+            "logo": "mdb_cv_4033.webp",
+            "artist": "Reku Mochizuki",
+            "link": "https://youtube.com/embed/_uaFmuZKWyw"
+        },
+        {
+            "id": 4034,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.6",
+            "title": "Magic Knight Girl",
+            "logo": "mdb_cv_4034.webp",
+            "artist": "Nizikawa",
+            "link": "https://youtube.com/embed/Yoh4hAbsIrE"
+        },
+        {
+            "id": 4035,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.6",
+            "title": "Eeliaas",
+            "logo": "mdb_cv_4035.webp",
+            "artist": "Mitsuki",
+            "link": "https://youtube.com/embed/JFSDISK_SCI"
+        },
+        {
+            "id": 4036,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.5",
+            "title": "Gaikan Chrysalis | Futa Hitsugi",
+            "logo": "mdb_cv_4036.webp",
+            "artist": "Team Grimoire feat.Sennzai",
+            "link": "https://youtube.com/embed/77Ql8TV0DIU"
+        },
+        {
+            "id": 4037,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.5",
+            "title": "Sterelogue",
+            "logo": "mdb_cv_4037.webp",
+            "artist": "VeetaCrush",
+            "link": "https://youtube.com/embed/9xaXXWOTYeI"
+        },
+        {
+            "id": 4038,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.5",
+            "title": "Cheshire's Dance",
+            "logo": "mdb_cv_4038.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/Uucfgzci-CU"
+        },
+        {
+            "id": 4039,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.5",
+            "title": "Skrik",
+            "logo": "mdb_cv_4039.webp",
+            "artist": "Chicala Lpis",
+            "link": "https://youtube.com/embed/-tvTOHQVB7w"
+        },
+        {
+            "id": 4040,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.5",
+            "title": "Soda Pop Canva5!",
+            "logo": "mdb_cv_4040.webp",
+            "artist": "Morimori Atsushi vs. XIzE",
+            "link": "https://youtube.com/embed/_ohLcFdCZ7s"
+        },
+        {
+            "id": 4041,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.5",
+            "title": "ЯUBY:LINTe",
+            "logo": "mdb_cv_4041.webp",
+            "artist": "orangentle",
+            "link": "https://youtube.com/embed/wOhlGVL9Dgo"
+        },
+        {
+            "id": 4042,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.4",
+            "title": "Destr0yer",
+            "logo": "mdb_cv_4042.webp",
+            "artist": "Sakuzyo feat.Nikki Simmons",
+            "link": "https://youtube.com/embed/9bV0HxsKHdc"
+        },
+        {
+            "id": 4043,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.4",
+            "title": "Noël",
+            "logo": "mdb_cv_4043.webp",
+            "artist": "Morimori Atsushi vs. uma",
+            "link": "https://youtube.com/embed/kFjzwjqpexg"
+        },
+        {
+            "id": 4044,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.4",
+            "title": "Kyoukiranbu | 狂喜蘭舞",
+            "logo": "mdb_cv_4044.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/YRdZ-8zPuI4"
+        },
+        {
+            "id": 4045,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.4",
+            "title": "Two Phace",
+            "logo": "mdb_cv_4045.webp",
+            "artist": "litmus* vs Sound Souler",
+            "link": "https://youtube.com/embed/TI5PYQZiiw4"
+        },
+        {
+            "id": 4046,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.4",
+            "title": "Fly Again",
+            "logo": "mdb_cv_4046.webp",
+            "artist": "HyuN & Ritoru",
+            "link": "https://youtube.com/embed/1VqUEKQvypU"
+        },
+        {
+            "id": 4047,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.4",
+            "title": "ouroVoros",
+            "logo": "mdb_cv_4047.webp",
+            "artist": "Negentropy",
+            "link": "https://youtube.com/embed/49hLdMJ9vzM"
+        },
+        {
+            "id": 4048,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.3",
+            "title": "Altale",
+            "logo": "mdb_cv_4048.webp",
+            "artist": "Sakuzyo",
+            "link": "https://youtube.com/embed/ikr59Iplnlo"
+        },
+        {
+            "id": 4049,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.3",
+            "title": "Brain Power",
+            "logo": "mdb_cv_4049.webp",
+            "artist": "NOMA",
+            "link": "https://youtube.com/embed/0bOV4ExHPZY"
+        },
+        {
+            "id": 4050,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.3",
+            "title": "Berry Go!!",
+            "logo": "mdb_cv_4050.webp",
+            "artist": "Freezer feat.Kiichigo",
+            "link": "https://youtube.com/embed/I6hiDJdYZ2Y"
+        },
+        {
+            "id": 4051,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.3",
+            "title": "Sweet* Witch* Girl*",
+            "logo": "mdb_cv_4051.webp",
+            "artist": "Morimori Atsushi vs. uma",
+            "link": "https://youtube.com/embed/d-Xw5ycytxE"
+        },
+        {
+            "id": 4052,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.3",
+            "title": "trippers feeling!",
+            "logo": "mdb_cv_4052.webp",
+            "artist": "KAH",
+            "link": "https://youtube.com/embed/pc-Ug4OS1ks"
+        },
+        {
+            "id": 4053,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.3",
+            "title": "Lilith ambivalence lovers",
+            "logo": "mdb_cv_4053.webp",
+            "artist": "ikaruga_nex",
+            "link": "https://youtube.com/embed/6hxbsm_WZUc"
+        },
+        {
+            "id": 4054,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.2",
+            "title": "Brave My Soul",
+            "logo": "mdb_cv_4054.webp",
+            "artist": "uma feat.Mashiro",
+            "link": "https://youtube.com/embed/PGGfqpkyBKM"
+        },
+        {
+            "id": 4055,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.2",
+            "title": "Halcyon",
+            "logo": "mdb_cv_4055.webp",
+            "artist": "xi",
+            "link": "https://youtube.com/embed/C6r0pfKDxNE"
+        },
+        {
+            "id": 4056,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.2",
+            "title": "Crimson Nightingle",
+            "logo": "mdb_cv_4056.webp",
+            "artist": "VeetaCrush",
+            "link": "https://youtube.com/embed/pNSLpzuFA9w"
+        },
+        {
+            "id": 4057,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.2",
+            "title": "Invader",
+            "logo": "mdb_cv_4057.webp",
+            "artist": "SLT",
+            "link": "https://youtube.com/embed/FR0gN0-zJrE"
+        },
+        {
+            "id": 4058,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.2",
+            "title": "Lyrith",
+            "logo": "mdb_cv_4058.webp",
+            "artist": "yumemidoll",
+            "link": "https://youtube.com/embed/rum28o5J5Vo"
+        },
+        {
+            "id": 4059,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.2",
+            "title": "GOODBOUNCE (Groove Edit)",
+            "logo": "mdb_cv_4059.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/zM1R2ezgrYQ"
+        },
+        {
+            "id": 4060,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.1",
+            "title": "Oriens",
+            "logo": "mdb_cv_4060.webp",
+            "artist": "ginkiha",
+            "link": "https://youtube.com/embed/bbsBXFduUjk"
+        },
+        {
+            "id": 4061,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.1",
+            "title": "PUPA",
+            "logo": "mdb_cv_4061.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/SlVQnxjRn2E"
+        },
+        {
+            "id": 4062,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.1",
+            "title": "Luna Express 2032",
+            "logo": "mdb_cv_4062.webp",
+            "artist": "Sakamiya feat.Mao Komiya",
+            "link": "https://youtube.com/embed/vxTSMgfZ-p0"
+        },
+        {
+            "id": 4063,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.1",
+            "title": "Ukiyoe Yokochou | 浮世絵横丁",
+            "logo": "mdb_cv_4063.webp",
+            "artist": "Chaos City Niigata",
+            "link": "https://youtube.com/embed/lJjXxEhLhyI"
+        },
+        {
+            "id": 4064,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.1",
+            "title": "Alice in Misanthrope",
+            "logo": "mdb_cv_4064.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/dYCQrXx8hLw"
+        },
+        {
+            "id": 4065,
+            "trackPackname": "Give Up TREATMENT",
+            "album": "Give Up TREATMENT Vol.1",
+            "title": "GOODMEN",
+            "logo": "mdb_cv_4065.webp",
+            "artist": "EBIMAYO",
+            "link": "https://youtube.com/embed/WcmYsqok5dE"
+        },
+        {
+            "id": 5000,
+            "trackPackname": "Collab",
+            "album": "Let's Rhythm Jam!",
+            "title": "Hyouryu | 菅原紗由理",
+            "logo": "mdb_cv_5000.webp",
+            "artist": "THE SxPLAY & KIVΛ",
+            "link": "https://youtube.com/embed/ac7UdHMBYR8"
+        },
+        {
+            "id": 5001,
+            "trackPackname": "Collab",
+            "album": "Let's Rhythm Jam!",
+            "title": "The Whole Rest",
+            "logo": "mdb_cv_5001.webp",
+            "artist": "KIVΛ",
+            "link": "https://youtube.com/embed/TWqMQeVqqnA"
+        },
+        {
+            "id": 5002,
+            "trackPackname": "Collab",
+            "album": "Let's Rhythm Jam!",
+            "title": "Hydra",
+            "logo": "mdb_cv_5002.webp",
+            "artist": "James Landino X Akira Complex",
+            "link": "https://youtube.com/embed/-nbg48ZHQ7c"
+        },
+        {
+            "id": 5003,
+            "trackPackname": "Collab",
+            "album": "Let's Rhythm Jam!",
+            "title": "Pastel Lines",
+            "logo": "mdb_cv_5003.webp",
+            "artist": "Reku Mochizuki",
+            "link": "https://youtube.com/embed/p_F8_hGuIPs"
+        },
+        {
+            "id": 5004,
+            "trackPackname": "Collab",
+            "album": "Let's Rhythm Jam!",
+            "title": "LINK x LIN♯S",
+            "logo": "mdb_cv_5004.webp",
+            "artist": "Halv",
+            "link": "https://youtube.com/embed/1xsGZKhZl6I"
+        },
+        {
+            "id": 5005,
+            "trackPackname": "Collab",
+            "album": "Let's Rhythm Jam!",
+            "title": "Arcade ViruZ",
+            "logo": "mdb_cv_5005.webp",
+            "artist": "Aspid Cat",
+            "link": "https://youtube.com/embed/SGYbtf1YpKA"
+        },
+        {
+            "id": 5006,
+            "trackPackname": "Collab",
+            "album": "CHUNITHM COURSE MUSE",
+            "title": "Ray Tuning",
+            "logo": "mdb_cv_5006.webp",
+            "artist": "NayutalieN",
+            "link": "https://youtube.com/embed/bxnMpFPFgqs"
+        },
+        {
+            "id": 5007,
+            "trackPackname": "Collab",
+            "album": "CHUNITHM COURSE MUSE",
+            "title": "World Vanquisher",
+            "logo": "mdb_cv_5007.webp",
+            "artist": "void (Mournfinale)",
+            "link": "https://youtube.com/embed/MXzU7AvdXIM"
+        },
+        {
+            "id": 5008,
+            "trackPackname": "Collab",
+            "album": "CHUNITHM COURSE MUSE",
+            "title": "月詠に鳴る",
+            "logo": "mdb_cv_5008.webp",
+            "artist": "Feryquitous feat.藍月なくる",
+            "link": "https://youtube.com/embed/KT-DtJWCLMA"
+        },
+        {
+            "id": 5009,
+            "trackPackname": "Collab",
+            "album": "CHUNITHM COURSE MUSE",
+            "title": "The wheel to the right",
+            "logo": "mdb_cv_5009.webp",
+            "artist": "Sampling Masters MEGA",
+            "link": "https://youtube.com/embed/8vvCZlNtgck"
+        },
+        {
+            "id": 5010,
+            "trackPackname": "Collab",
+            "album": "CHUNITHM COURSE MUSE",
+            "title": "Climax",
+            "logo": "mdb_cv_5010.webp",
+            "artist": "USAO",
+            "link": "https://youtube.com/embed/3a5AYW5wstQ"
+        },
+        {
+            "id": 5011,
+            "trackPackname": "Collab",
+            "album": "CHUNITHM COURSE MUSE",
+            "title": "Spider's Thread | 蜘蛛の糸 (from CHUNITHM)",
+            "logo": "mdb_cv_5011.webp",
+            "artist": "kikuo×cosMo@Bousou-P feat.kagenui hana",
+            "link": "https://youtube.com/embed/j0aBmzO70HY"
+        },
+        {
+            "id": 5012,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "劣等上等",
+            "logo": "mdb_cv_5012.webp",
+            "artist": "Giga feat. Kagamine Rin & Len",
+            "link": "https://youtube.com/embed/N7H9WEovLQo"
+        },
+        {
+            "id": 5013,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "テレキャスタービーボーイ",
+            "logo": "mdb_cv_5013.webp",
+            "artist": "すりぃ feat. Kagamine Len",
+            "link": "https://youtube.com/embed/YZlW2q0rXHc"
+        },
+        {
+            "id": 5014,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "い～やい～やい～や",
+            "logo": "mdb_cv_5014.webp",
+            "artist": "Neru feat. Kagamine Rin & Len",
+            "link": "https://youtube.com/embed/IwFgJGGBTUo"
+        },
+        {
+            "id": 5015,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "ねぇねぇねぇ。",
+            "logo": "mdb_cv_5015.webp",
+            "artist": "ピノキオピー feat. Kagamine Rin & Hatsune Miku",
+            "link": "https://youtube.com/embed/vBhkbN5ajHU"
+        },
+        {
+            "id": 5016,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "Chaotic Love Revolution",
+            "logo": "mdb_cv_5016.webp",
+            "artist": "ポリスピカデリー feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/XAmnL9VTzl8"
+        },
+        {
+            "id": 5017,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "しかばねの踊り",
+            "logo": "mdb_cv_5017.webp",
+            "artist": "きくお feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/nI7vDM1g_Vc"
+        },
+        {
+            "id": 5018,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "ビターチョコデコレーション",
+            "logo": "mdb_cv_5018.webp",
+            "artist": "syudou feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/h5WbTzBOcIg"
+        },
+        {
+            "id": 5019,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "ダンスロボットダンス",
+            "logo": "mdb_cv_5019.webp",
+            "artist": "ナユタン星人 feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/f0gxPAd3fz8"
+        },
+        {
+            "id": 5020,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "Sweet Devil",
+            "logo": "mdb_cv_5020.webp",
+            "artist": "八王子P feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/IratiEF4DFc"
+        },
+        {
+            "id": 5021,
+            "trackPackname": "Collab",
+            "album": "Rin·Len's Mirrorland",
+            "title": "Someday'z Coming",
+            "logo": "mdb_cv_5021.webp",
+            "artist": "書店太郎 feat. Megurine Luka",
+            "link": "https://youtube.com/embed/PI0h5LqFpb8"
+        },
+        {
+            "id": 5022,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅲ-",
+            "title": "Samayoi no mei ～Amatsu～ |  彷徨いの冥～天～ - 少女フラクタル",
+            "logo": "mdb_cv_5022.webp",
+            "artist": "Shoujo Fractal",
+            "link": "https://youtube.com/embed/38cCxnzOwOc"
+        },
+        {
+            "id": 5023,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅲ-",
+            "title": "INTERNET SURVIVOR | インターネットサバイバー - あやぽんず",
+            "logo": "mdb_cv_5023.webp",
+            "artist": "Ayaponzu* feat. beatMARIO × MARON",
+            "link": "https://youtube.com/embed/VvMJcG__rag"
+        },
+        {
+            "id": 5024,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅲ-",
+            "title": "Shuki☆RaiRai!!! | 酒鬼☆RaiRai!!!",
+            "logo": "mdb_cv_5024.webp",
+            "artist": "Shinra-Bansho | 森羅万象",
+            "link": "https://youtube.com/embed/CfwYqfRf4ak"
+        },
+        {
+            "id": 5025,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅲ-",
+            "title": "HELLOHELL",
+            "logo": "mdb_cv_5025.webp",
+            "artist": "Akatsuki Records",
+            "link": "https://youtube.com/embed/KpOexgrlTmw"
+        },
+        {
+            "id": 5026,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅲ-",
+            "title": "Calamity Fortune",
+            "logo": "mdb_cv_5026.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/L_iSDqqhsBg"
+        },
+        {
+            "id": 5027,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅲ-",
+            "title": "つるぺったん",
+            "logo": "mdb_cv_5027.webp",
+            "artist": "Silver Forest",
+            "link": "https://youtube.com/embed/ln5GddP_fjc"
+        },
+        {
+            "id": 5028,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "39みゅーじっく！",
+            "logo": "mdb_cv_5028.webp",
+            "artist": "みきとP feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/BqemOVwzT6w"
+        },
+        {
+            "id": 5029,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "Hand in Hand",
+            "logo": "mdb_cv_5029.webp",
+            "artist": "livetune feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/OjVDbr_sDZ4"
+        },
+        {
+            "id": 5030,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "シニカルナイトプラン",
+            "logo": "mdb_cv_5030.webp",
+            "artist": "Ayase feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/lkLIFFPpF-s"
+        },
+        {
+            "id": 5031,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "神っぽいな",
+            "logo": "mdb_cv_5031.webp",
+            "artist": "ピノキオピー feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/dI_Zk6payKM"
+        },
+        {
+            "id": 5032,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "ダーリンダンス",
+            "logo": "mdb_cv_5032.webp",
+            "artist": "かいりきベア feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/dE9bqQNPipY"
+        },
+        {
+            "id": 5033,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "初音天地開闢神話",
+            "logo": "mdb_cv_5033.webp",
+            "artist": "cosMo@暴走P feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/VGSMU68KCsI"
+        },
+        {
+            "id": 5034,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "ヴァンパイア",
+            "logo": "mdb_cv_5034.webp",
+            "artist": "DECO*27 feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/oiVZ_LGyJxc"
+        },
+        {
+            "id": 5035,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "フューチャー・イヴ",
+            "logo": "mdb_cv_5035.webp",
+            "artist": "sasakure.UK feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/26aci6hY250"
+        },
+        {
+            "id": 5036,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "Unknown・MotherGoose | アンノウン・マザーグース",
+            "logo": "mdb_cv_5036.webp",
+            "artist": "wowaka feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/0w8k5CzYaWI"
+        },
+        {
+            "id": 5037,
+            "trackPackname": "Collab",
+            "album": "Miku in Museland",
+            "title": "春嵐",
+            "logo": "mdb_cv_5037.webp",
+            "artist": "john feat. Hatsune Miku",
+            "link": "https://youtube.com/embed/LHBvE0KH1pU"
+        },
+        {
+            "id": 5038,
+            "trackPackname": "Collab",
+            "album": "Neon Abyss",
+            "title": "BrainDance",
+            "logo": "mdb_cv_5038.webp",
+            "artist": "Neon Abyss：Infinity",
+            "link": "https://youtube.com/embed/pLHGFBt01a8"
+        },
+        {
+            "id": 5039,
+            "trackPackname": "Collab",
+            "album": "Neon Abyss",
+            "title": "My Focus!",
+            "logo": "mdb_cv_5039.webp",
+            "artist": "EmoCosine",
+            "link": "https://youtube.com/embed/zICaXUc47mk"
+        },
+        {
+            "id": 5040,
+            "trackPackname": "Collab",
+            "album": "Neon Abyss",
+            "title": "ABABABA BURST",
+            "logo": "mdb_cv_5040.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/lJCvkPcvccA"
+        },
+        {
+            "id": 5041,
+            "trackPackname": "Collab",
+            "album": "Neon Abyss",
+            "title": "ULTRA HIGHER",
+            "logo": "mdb_cv_5041.webp",
+            "artist": "BlackY",
+            "link": "https://youtube.com/embed/4Pq6ul8Ul18"
+        },
+        {
+            "id": 5042,
+            "trackPackname": "Collab",
+            "album": "maimai DX Limited-time Suite",
+            "title": "N3V3R G3T OV3R",
+            "logo": "mdb_cv_5042.webp",
+            "artist": "C-Show",
+            "link": "https://youtube.com/embed/pcIVmKgOasg"
+        },
+        {
+            "id": 5043,
+            "trackPackname": "Collab",
+            "album": "maimai DX Limited-time Suite",
+            "title": "Oshama Scramble!",
+            "logo": "mdb_cv_5043.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/f3MDGKw0wdg"
+        },
+        {
+            "id": 5044,
+            "trackPackname": "Collab",
+            "album": "maimai DX Limited-time Suite",
+            "title": "Valsqotch",
+            "logo": "mdb_cv_5044.webp",
+            "artist": "owl＊tree feat. chi＊tree",
+            "link": "https://youtube.com/embed/ytryD4g3QrU"
+        },
+        {
+            "id": 5045,
+            "trackPackname": "Collab",
+            "album": "maimai DX Limited-time Suite",
+            "title": "Paranormal My Mind | 超常マイマイン/ナユタン星人",
+            "logo": "mdb_cv_5045.webp",
+            "artist": "NayutalieN",
+            "link": "https://youtube.com/embed/L_M599WSXlc"
+        },
+        {
+            "id": 5046,
+            "trackPackname": "Collab",
+            "album": "maimai DX Limited-time Suite",
+            "title": "Flower, snow and Drum'n'bass. | 花と、雪と、ドラムンベース。",
+            "logo": "mdb_cv_5046.webp",
+            "artist": "kanone feat. Sennzai",
+            "link": "https://youtube.com/embed/KL3z-VFNNa8"
+        },
+        {
+            "id": 5047,
+            "trackPackname": "Collab",
+            "album": "maimai DX Limited-time Suite",
+            "title": "Amenohoakari | 天火明命/削除",
+            "logo": "mdb_cv_5047.webp",
+            "artist": "Sakuzyo",
+            "link": "https://youtube.com/embed/iDKp-r7wSkQ"
+        },
+        {
+            "id": 5048,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Boiling Blood",
+            "logo": "mdb_cv_5048.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/2D2PydevUqA"
+        },
+        {
+            "id": 5049,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "ManiFesto ：",
+            "logo": "mdb_cv_5049.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/FLd_wSQsEsc"
+        },
+        {
+            "id": 5050,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Operation Blade",
+            "logo": "mdb_cv_5050.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/JK83-phw2dI"
+        },
+        {
+            "id": 5051,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Radiant",
+            "logo": "mdb_cv_5051.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/e913E8w_n9A"
+        },
+        {
+            "id": 5052,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Renegade",
+            "logo": "mdb_cv_5052.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/1h_eASgyyWQ"
+        },
+        {
+            "id": 5053,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Speed of Light",
+            "logo": "mdb_cv_5053.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/vwIzDbKo3xY"
+        },
+        {
+            "id": 5054,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Dossoles Holiday",
+            "logo": "mdb_cv_5054.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/ZwZP6cSoJJc"
+        },
+        {
+            "id": 5055,
+            "trackPackname": "Collab",
+            "album": "MSR Anthology",
+            "title": "Autumn Moods",
+            "logo": "mdb_cv_5055.webp",
+            "artist": "Monster Siren Records",
+            "link": "https://youtube.com/embed/XyEIfsD30Qs"
+        },
+        {
+            "id": 5056,
+            "trackPackname": "Collab",
+            "album": "Nanahira Paradise",
+            "title": "People People",
+            "logo": "mdb_cv_5056.webp",
+            "artist": "Neko Hacker feat. Nanahira",
+            "link": "https://youtube.com/embed/nrbN-SlNMxk"
+        },
+        {
+            "id": 5057,
+            "trackPackname": "Collab",
+            "album": "Nanahira Paradise",
+            "title": "Endless Error Loop",
+            "logo": "mdb_cv_5057.webp",
+            "artist": "Neko Hacker feat. Nanahira",
+            "link": "https://youtube.com/embed/mcsLmW_LGGM"
+        },
+        {
+            "id": 5058,
+            "trackPackname": "Collab",
+            "album": "Nanahira Paradise",
+            "title": "Forbidden Pizza! | フォビどぅん・ピザ！",
+            "logo": "mdb_cv_5058.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/bU5qktr2P_A"
+        },
+        {
+            "id": 5059,
+            "trackPackname": "Collab",
+            "album": "Nanahira Paradise",
+            "title": "ボーカルに無茶させんな",
+            "logo": "mdb_cv_5059.webp",
+            "artist": "t+pazolite feat. Nanahira",
+            "link": "https://youtube.com/embed/ka-DmcCKVLc"
+        },
+        {
+            "id": 5060,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅱ-",
+            "title": "月に叢雲華に風",
+            "logo": "mdb_cv_5060.webp",
+            "artist": "幽閉サテライト",
+            "link": "https://youtube.com/embed/MZPfdITykJE"
+        },
+        {
+            "id": 5061,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅱ-",
+            "title": "Patchouli's - Best Hit GSK | パチュリーズ・",
+            "logo": "mdb_cv_5061.webp",
+            "artist": "minami + Shichijo Lettuce(IOSYS) feat.Iwasugi Natsu",
+            "link": "https://youtube.com/embed/IcXcK4M-vOk"
+        },
+        {
+            "id": 5062,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅱ-",
+            "title": "物凄いスペースシャトルでこいしが物凄いうた",
+            "logo": "mdb_cv_5062.webp",
+            "artist": "Halozy",
+            "link": "https://youtube.com/embed/7A0Tq5z0Fqc"
+        },
+        {
+            "id": 5063,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅱ-",
+            "title": "囲い無き世は一期の月影",
+            "logo": "mdb_cv_5063.webp",
+            "artist": "豚乙女",
+            "link": "https://youtube.com/embed/SKJL4q6_Gl0"
+        },
+        {
+            "id": 5064,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅱ-",
+            "title": "Psychedelic Kizakura Doumei | サイケデリック鬼桜同盟",
+            "logo": "mdb_cv_5064.webp",
+            "artist": "SOUND HOLIC feat. Nana Takahashi",
+            "link": "https://youtube.com/embed/TpqsLBoz0qw"
+        },
+        {
+            "id": 5065,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅱ-",
+            "title": "Mischievous Sensation | 森羅万象",
+            "logo": "mdb_cv_5065.webp",
+            "artist": "Shinra-Bansho",
+            "link": "https://youtube.com/embed/kgqueQlIODQ"
+        },
+        {
+            "id": 5066,
+            "trackPackname": "Collab",
+            "album": "MEGAREX THE FUTURE",
+            "title": "White Canvas (feat. 藍月なくる)",
+            "logo": "mdb_cv_5066.webp",
+            "artist": "rejection",
+            "link": "https://youtube.com/embed/OC45Ug327CA"
+        },
+        {
+            "id": 5067,
+            "trackPackname": "Collab",
+            "album": "MEGAREX THE FUTURE",
+            "title": "Gloomy Flash (feat. Mami)",
+            "logo": "mdb_cv_5067.webp",
+            "artist": "Zekk & poplavor",
+            "link": "https://youtube.com/embed/uvM-ZUcICR0"
+        },
+        {
+            "id": 5068,
+            "trackPackname": "Collab",
+            "album": "MEGAREX THE FUTURE",
+            "title": "今月のおすすめプレイリストを検索します",
+            "logo": "mdb_cv_5068.webp",
+            "artist": "kazeoff",
+            "link": "https://youtube.com/embed/WyCw2h8AWzA"
+        },
+        {
+            "id": 5069,
+            "trackPackname": "Collab",
+            "album": "MEGAREX THE FUTURE",
+            "title": "Sunday Night (feat. Kanata.N)",
+            "logo": "mdb_cv_5069.webp",
+            "artist": "Mameyudoufu",
+            "link": "https://youtube.com/embed/n-bE-SydVrA"
+        },
+        {
+            "id": 5070,
+            "trackPackname": "Collab",
+            "album": "MEGAREX THE FUTURE",
+            "title": "Goodbye Goodnight (feat. Shully)",
+            "logo": "mdb_cv_5070.webp",
+            "artist": "rejection",
+            "link": "https://youtube.com/embed/usw5e99ciG4"
+        },
+        {
+            "id": 5071,
+            "trackPackname": "Collab",
+            "album": "MEGAREX THE FUTURE",
+            "title": "ENDLESS CIDER (feat. Such)",
+            "logo": "mdb_cv_5071.webp",
+            "artist": "Mameyudoufu",
+            "link": "https://youtube.com/embed/AYPiB3hy2G8"
+        },
+        {
+            "id": 5072,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "glory day",
+            "logo": "mdb_cv_5072.webp",
+            "artist": "BEXTER x Mycin.T",
+            "link": "https://youtube.com/embed/pCLyI9YNRbc"
+        },
+        {
+            "id": 5073,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Bright Dream",
+            "logo": "mdb_cv_5073.webp",
+            "artist": "M2U",
+            "link": "https://youtube.com/embed/Zknxc0Vu6bc"
+        },
+        {
+            "id": 5074,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Groovin Up",
+            "logo": "mdb_cv_5074.webp",
+            "artist": "Mycin.T",
+            "link": "https://youtube.com/embed/DpE27CYYf3E"
+        },
+        {
+            "id": 5075,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "I Want You",
+            "logo": "mdb_cv_5075.webp",
+            "artist": "Lin-G",
+            "link": "https://youtube.com/embed/sZP0_BG22_Q"
+        },
+        {
+            "id": 5076,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "OBLIVION",
+            "logo": "mdb_cv_5076.webp",
+            "artist": "ESTi",
+            "link": "https://youtube.com/embed/R35SKGqAtSw"
+        },
+        {
+            "id": 5077,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Elastic STAR",
+            "logo": "mdb_cv_5077.webp",
+            "artist": "Forte Escape",
+            "link": "https://youtube.com/embed/E9XngEQWmVI"
+        },
+        {
+            "id": 5078,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "U.A.D",
+            "logo": "mdb_cv_5078.webp",
+            "artist": "HAYAKO",
+            "link": "https://youtube.com/embed/0DNPUcnEMJs"
+        },
+        {
+            "id": 5079,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Jealousy",
+            "logo": "mdb_cv_5079.webp",
+            "artist": "3rd Coast",
+            "link": "https://youtube.com/embed/QSrUclcEWyU"
+        },
+        {
+            "id": 5080,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Memory of Beach",
+            "logo": "mdb_cv_5080.webp",
+            "artist": "M2U",
+            "link": "https://youtube.com/embed/WQyMflllgcM"
+        },
+        {
+            "id": 5081,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Don't Die",
+            "logo": "mdb_cv_5081.webp",
+            "artist": "Paul Bazooka",
+            "link": "https://youtube.com/embed/FJiWn8TMP08"
+        },
+        {
+            "id": 5082,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Y (CE Ver.)",
+            "logo": "mdb_cv_5082.webp",
+            "artist": "ND Lee",
+            "link": "https://youtube.com/embed/0xEDTWNK-q0"
+        },
+        {
+            "id": 5083,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Fancy Night",
+            "logo": "mdb_cv_5083.webp",
+            "artist": "SiNA x CHUCK",
+            "link": "https://youtube.com/embed/"
+        },
+        {
+            "id": 5084,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Can We Talk",
+            "logo": "mdb_cv_5084.webp",
+            "artist": "Forte Escape",
+            "link": "https://youtube.com/embed/MpwaDlL7EMY"
+        },
+        {
+            "id": 5085,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Give Me 5",
+            "logo": "mdb_cv_5085.webp",
+            "artist": "ND Lee",
+            "link": "https://youtube.com/embed/SdhhYTG33iE"
+        },
+        {
+            "id": 5086,
+            "trackPackname": "Collab",
+            "album": "DJMAX Reflect",
+            "title": "Nightmare",
+            "logo": "mdb_cv_5086.webp",
+            "artist": "M2U",
+            "link": "https://youtube.com/embed/3CvPmO2QWBk"
+        },
+        {
+            "id": 5087,
+            "trackPackname": "Collab",
+            "album": "Arcaea",
+            "title": "Haze of Autumn | 秋の陽炎",
+            "logo": "mdb_cv_5087.webp",
+            "artist": "karatoPαnchii feat.はるの",
+            "link": "https://youtube.com/embed/HECxsR6RhP8"
+        },
+        {
+            "id": 5088,
+            "trackPackname": "Collab",
+            "album": "Arcaea",
+            "title": "GIMME DA BLOOD",
+            "logo": "mdb_cv_5088.webp",
+            "artist": "C-Show",
+            "link": "https://youtube.com/embed/PuRuwdVVj0U"
+        },
+        {
+            "id": 5089,
+            "trackPackname": "Collab",
+            "album": "Arcaea",
+            "title": "Libertas",
+            "logo": "mdb_cv_5089.webp",
+            "artist": "Zekk",
+            "link": "https://youtube.com/embed/P4HBJQINrmQ"
+        },
+        {
+            "id": 5090,
+            "trackPackname": "Collab",
+            "album": "Arcaea",
+            "title": "Cyaegha",
+            "logo": "mdb_cv_5090.webp",
+            "artist": "USAO",
+            "link": "https://youtube.com/embed/OW8pMvedAtM"
+        },
+        {
+            "id": 5091,
+            "trackPackname": "Collab",
+            "album": "WACCA Horizon",
+            "title": "ONOMATO Pairing!!!",
+            "logo": "mdb_cv_5091.webp",
+            "artist": "t+pazolite feat. Nanahira",
+            "link": "https://youtube.com/embed/7knlsjItLX8"
+        },
+        {
+            "id": 5092,
+            "trackPackname": "Collab",
+            "album": "WACCA Horizon",
+            "title": "with U",
+            "logo": "mdb_cv_5092.webp",
+            "artist": "t+pazolite & Massive New Krew feat. Lily(Shiki Aoki)",
+            "link": "https://youtube.com/embed/u6wCQba4EDg"
+        },
+        {
+            "id": 5093,
+            "trackPackname": "Collab",
+            "album": "WACCA Horizon",
+            "title": "Chariot",
+            "logo": "mdb_cv_5093.webp",
+            "artist": "USAO",
+            "link": "https://youtube.com/embed/sRSJS4x_FhU"
+        },
+        {
+            "id": 5094,
+            "trackPackname": "Collab",
+            "album": "WACCA Horizon",
+            "title": "GASHATT",
+            "logo": "mdb_cv_5094.webp",
+            "artist": "onoken",
+            "link": "https://youtube.com/embed/mIaukhjTWwg"
+        },
+        {
+            "id": 5095,
+            "trackPackname": "Collab",
+            "album": "WACCA Horizon",
+            "title": "LIN NE KRO NE feat. lasah",
+            "logo": "mdb_cv_5095.webp",
+            "artist": "sasakure.UK",
+            "link": "https://youtube.com/embed/T_Fdc_VqqFA"
+        },
+        {
+            "id": 5096,
+            "trackPackname": "Collab",
+            "album": "WACCA Horizon",
+            "title": "ANGEL HALO | 天使光輪",
+            "logo": "mdb_cv_5096.webp",
+            "artist": "REDALiCE & cosMo@Bousou-P",
+            "link": "https://youtube.com/embed/VmuuzwL6IXA"
+        },
+        {
+            "id": 5097,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅰ-",
+            "title": "Bad Apple!! feat. Nomico",
+            "logo": "mdb_cv_5097.webp",
+            "artist": "Alstroemeria Records",
+            "link": "https://youtube.com/embed/Fs1s3Z0X_QA"
+        },
+        {
+            "id": 5098,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅰ-",
+            "title": "色は匂へど散りぬるを",
+            "logo": "mdb_cv_5098.webp",
+            "artist": "幽閉サテライト",
+            "link": "https://youtube.com/embed/D_6rWcK3TuQ"
+        },
+        {
+            "id": 5099,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅰ-",
+            "title": "Cirno's Perfect Math Class",
+            "logo": "mdb_cv_5099.webp",
+            "artist": "ARM + Yoshimi YOUNO (IOSYS) feat. miko",
+            "link": "https://youtube.com/embed/keGZqhHwYtY"
+        },
+        {
+            "id": 5100,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅰ-",
+            "title": "緋色月下、狂咲ノ絶",
+            "logo": "mdb_cv_5100.webp",
+            "artist": "EastNewSound",
+            "link": "https://youtube.com/embed/IcOD26YjeB0"
+        },
+        {
+            "id": 5101,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅰ-",
+            "title": "Flowery Moonlit Night",
+            "logo": "mdb_cv_5101.webp",
+            "artist": "Yonder Voice",
+            "link": "https://youtube.com/embed/cBH_LYudwvs"
+        },
+        {
+            "id": 5102,
+            "trackPackname": "Collab",
+            "album": "Touhou Mugakudan -Ⅰ-",
+            "title": "Unconscious Requiem",
+            "logo": "mdb_cv_5102.webp",
+            "artist": "Shinra-Bansho",
+            "link": "https://youtube.com/embed/MctMHlWJQm0"
+        },
+        {
+            "id": 5103,
+            "trackPackname": "Collab",
+            "album": "7th Beat Games",
+            "title": "Super Battleworn Insomniac",
+            "logo": "mdb_cv_5103.webp",
+            "artist": "fizzd",
+            "link": "https://youtube.com/embed/5MCQF7_yuIA"
+        },
+        {
+            "id": 5104,
+            "trackPackname": "Collab",
+            "album": "7th Beat Games",
+            "title": "Bomb-Sniffing Pomeranian",
+            "logo": "mdb_cv_5104.webp",
+            "artist": "Stinkbug & Coda, Original song(Artificial Intelligence Bomb) from: naruto",
+            "link": "https://youtube.com/embed/m36m-Y2WeOk"
+        },
+        {
+            "id": 5105,
+            "trackPackname": "Collab",
+            "album": "7th Beat Games",
+            "title": "Rollerdisco Rumble",
+            "logo": "mdb_cv_5105.webp",
+            "artist": "Vince Kaichan",
+            "link": "https://youtube.com/embed/EYIgJxZ_dhg"
+        },
+        {
+            "id": 5106,
+            "trackPackname": "Collab",
+            "album": "7th Beat Games",
+            "title": "ROSE GARDEN",
+            "logo": "mdb_cv_5106.webp",
+            "artist": "RoDy.cOde",
+            "link": "https://youtube.com/embed/rQY0xFoiVTA"
+        },
+        {
+            "id": 5107,
+            "trackPackname": "Collab",
+            "album": "7th Beat Games",
+            "title": "EMOMOMO",
+            "logo": "mdb_cv_5107.webp",
+            "artist": "Ras",
+            "link": "https://youtube.com/embed/F5GjEwI8wEA"
+        },
+        {
+            "id": 5108,
+            "trackPackname": "Collab",
+            "album": "7th Beat Games",
+            "title": "Heracles",
+            "logo": "mdb_cv_5108.webp",
+            "artist": "Yooh",
+            "link": "https://youtube.com/embed/Xd_CZ1spDog"
+        },
+        {
+            "id": 5109,
+            "trackPackname": "Collab",
+            "album": "Phigros",
+            "title": "NO ONE YES MAN",
+            "logo": "mdb_cv_5109.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/ULORJbgWuNQ"
+        },
+        {
+            "id": 5110,
+            "trackPackname": "Collab",
+            "album": "Phigros",
+            "title": "雪降り、メリクリ（MD edit）",
+            "logo": "mdb_cv_5110.webp",
+            "artist": "A-39",
+            "link": "https://youtube.com/embed/Q2xe8706WiQ"
+        },
+        {
+            "id": 5111,
+            "trackPackname": "Collab",
+            "album": "Phigros",
+            "title": "Igallta",
+            "logo": "mdb_cv_5111.webp",
+            "artist": "Se-U-Ra",
+            "link": "https://youtube.com/embed/w7duCaf4cbs"
+        },
+        {
+            "id": 5112,
+            "trackPackname": "Collab",
+            "album": "HARDCORE TANO*C",
+            "title": "ALiVE",
+            "logo": "mdb_cv_5112.webp",
+            "artist": "REDALiCE",
+            "link": "https://youtube.com/embed/9ncufZzNFwU"
+        },
+        {
+            "id": 5113,
+            "trackPackname": "Collab",
+            "album": "HARDCORE TANO*C",
+            "title": "BATTLE NO.1",
+            "logo": "mdb_cv_5113.webp",
+            "artist": "TANO*C Sound Team",
+            "link": "https://youtube.com/embed/vQ7y3K2m0B4"
+        },
+        {
+            "id": 5114,
+            "trackPackname": "Collab",
+            "album": "HARDCORE TANO*C",
+            "title": "Cthugha",
+            "logo": "mdb_cv_5114.webp",
+            "artist": "USAO",
+            "link": "https://youtube.com/embed/_tX1lqcVnno"
+        },
+        {
+            "id": 5115,
+            "trackPackname": "Collab",
+            "album": "HARDCORE TANO*C",
+            "title": "TWINKLE★MAGIC",
+            "logo": "mdb_cv_5115.webp",
+            "artist": "P*Light",
+            "link": "https://youtube.com/embed/bZORilP0X-k"
+        },
+        {
+            "id": 5116,
+            "trackPackname": "Collab",
+            "album": "HARDCORE TANO*C",
+            "title": "Comet Coaster",
+            "logo": "mdb_cv_5116.webp",
+            "artist": "DJ Noriken & aran",
+            "link": "https://youtube.com/embed/cKglI23EjMo"
+        },
+        {
+            "id": 5117,
+            "trackPackname": "Collab",
+            "album": "HARDCORE TANO*C",
+            "title": "XODUS",
+            "logo": "mdb_cv_5117.webp",
+            "artist": "DJ Myosuke & Gram",
+            "link": "https://youtube.com/embed/qubAtSaa_U8"
+        },
+        {
+            "id": 5118,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Fireflies (Funk Fiction remix)",
+            "logo": "mdb_cv_5118.webp",
+            "artist": "Nikki Simmons",
+            "link": "https://youtube.com/embed/tJW0xjX0E48"
+        },
+        {
+            "id": 5119,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Light up my love!!",
+            "logo": "mdb_cv_5119.webp",
+            "artist": "onoken feat. moco",
+            "link": "https://youtube.com/embed/8l-IQvwlIyI"
+        },
+        {
+            "id": 5120,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Happiness Breeze",
+            "logo": "mdb_cv_5120.webp",
+            "artist": "3R2 as DJ Mashiro",
+            "link": "https://youtube.com/embed/NLOebW24hCw"
+        },
+        {
+            "id": 5121,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Chrome VOX",
+            "logo": "mdb_cv_5121.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/"
+        },
+        {
+            "id": 5122,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "CHAOS",
+            "logo": "mdb_cv_5122.webp",
+            "artist": "Æsir",
+            "link": "https://youtube.com/embed/9YV3ic-dyOQ"
+        },
+        {
+            "id": 5123,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Saika",
+            "logo": "mdb_cv_5123.webp",
+            "artist": "Rabpit",
+            "link": "https://youtube.com/embed/J0nNY1xEKJs"
+        },
+        {
+            "id": 5124,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Standby for Action",
+            "logo": "mdb_cv_5124.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/"
+        },
+        {
+            "id": 5125,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Hydrangea",
+            "logo": "mdb_cv_5125.webp",
+            "artist": "Tatsh",
+            "link": "https://youtube.com/embed/-nbg48ZHQ7c"
+        },
+        {
+            "id": 5126,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Amenemhat",
+            "logo": "mdb_cv_5126.webp",
+            "artist": "Yesod (litmus* + Rabbit House + A. Ki)",
+            "link": "https://youtube.com/embed/LR7euLA9M4s"
+        },
+        {
+            "id": 5127,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Santouka",
+            "logo": "mdb_cv_5127.webp",
+            "artist": "yuritoworks.",
+            "link": "https://youtube.com/embed/Y8eW-9QwjIM"
+        },
+        {
+            "id": 5128,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "HEXENNACHTROCK-katashihaya-",
+            "logo": "mdb_cv_5128.webp",
+            "artist": "TEZUKApo11o band ft. ランコ(豚乙女)+OFFICE萬田㈱",
+            "link": "https://youtube.com/embed/K1Oi9UKfvZg"
+        },
+        {
+            "id": 5129,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "Blah!!",
+            "logo": "mdb_cv_5129.webp",
+            "artist": "HiTECH NINJA",
+            "link": "https://youtube.com/embed/9n6gORapu00"
+        },
+        {
+            "id": 5130,
+            "trackPackname": "Collab",
+            "album": "cyTus",
+            "title": "CHAOS (Glitch)",
+            "logo": "mdb_cv_5130.webp",
+            "artist": "Æsir",
+            "link": "https://youtube.com/embed/"
+        },
+        {
+            "id": 5131,
+            "trackPackname": "Collab",
+            "album": "Let's do bad things together!",
+            "title": "Preparara",
+            "logo": "mdb_cv_5131.webp",
+            "artist": "L-Minatsu",
+            "link": "https://youtube.com/embed/-DBDTYGQCMY"
+        },
+        {
+            "id": 5132,
+            "trackPackname": "Collab",
+            "album": "Let's do bad things together!",
+            "title": "Whatcha;Whatcha Doin'",
+            "logo": "mdb_cv_5132.webp",
+            "artist": "L-Minatsu",
+            "link": "https://youtube.com/embed/IcLNkKNusi4"
+        },
+        {
+            "id": 5133,
+            "trackPackname": "Collab",
+            "album": "Let's do bad things together!",
+            "title": "Madara",
+            "logo": "mdb_cv_5133.webp",
+            "artist": "Fumihisa Tanaka",
+            "link": "https://youtube.com/embed/g5wfiDAGgio"
+        },
+        {
+            "id": 5134,
+            "trackPackname": "Collab",
+            "album": "Let's do bad things together!",
+            "title": "pICARESq",
+            "logo": "mdb_cv_5134.webp",
+            "artist": "L-Minatsu",
+            "link": "https://youtube.com/embed/ptfooeI4ynM"
+        },
+        {
+            "id": 5135,
+            "trackPackname": "Collab",
+            "album": "Let's do bad things together!",
+            "title": "Desastre",
+            "logo": "mdb_cv_5135.webp",
+            "artist": "L-Minatsu",
+            "link": "https://youtube.com/embed/0KQPUnJr_GU"
+        },
+        {
+            "id": 5136,
+            "trackPackname": "Collab",
+            "album": "Let's do bad things together!",
+            "title": "Shoot for the Moon",
+            "logo": "mdb_cv_5136.webp",
+            "artist": "L-Minatsu",
+            "link": "https://youtube.com/embed/ciCzwdcFFVM"
+        },
+        {
+            "id": 5137,
+            "trackPackname": "Collab",
+            "album": "Let's GROOVE!",
+            "title": "Groove Prayer",
+            "logo": "mdb_cv_5137.webp",
+            "artist": "COSIO(ZUNTATA) feat.ChouCho",
+            "link": "https://youtube.com/embed/cGmjcUCOZOs"
+        },
+        {
+            "id": 5138,
+            "trackPackname": "Collab",
+            "album": "Let's GROOVE!",
+            "title": "FUJIN Rumble",
+            "logo": "mdb_cv_5138.webp",
+            "artist": "COSIO(ZUNTATA)",
+            "link": "https://youtube.com/embed/W3j2FaYhrUY"
+        },
+        {
+            "id": 5139,
+            "trackPackname": "Collab",
+            "album": "Let's GROOVE!",
+            "title": "Marry me, Nightmare",
+            "logo": "mdb_cv_5139.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/3CvPmO2QWBk"
+        },
+        {
+            "id": 5140,
+            "trackPackname": "Collab",
+            "album": "Let's GROOVE!",
+            "title": "HG魔改造ポリビニル少年",
+            "logo": "mdb_cv_5140.webp",
+            "artist": "IOSYS TRAX (D.watt with さきぴょ)",
+            "link": "https://youtube.com/embed/-MUlYSbf9hg"
+        },
+        {
+            "id": 5141,
+            "trackPackname": "Collab",
+            "album": "Let's GROOVE!",
+            "title": "聖者の息吹",
+            "logo": "mdb_cv_5141.webp",
+            "artist": "世阿弥 vs Tatsh",
+            "link": "https://youtube.com/embed/rts892zBtjg"
+        },
+        {
+            "id": 5142,
+            "trackPackname": "Collab",
+            "album": "Let's GROOVE!",
+            "title": "ouroboros -twin stroke of the end-",
+            "logo": "mdb_cv_5142.webp",
+            "artist": "Cranky VS MASAKI",
+            "link": "https://youtube.com/embed/sppNicPn15E"
+        },
+        {
+            "id": 5143,
+            "trackPackname": "Collab",
+            "album": "Nanahira Festival",
+            "title": "Can I friend you on Bassbook? lol | ベースラインやってる？",
+            "logo": "mdb_cv_5143.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/so56D9Lp5Q4"
+        },
+        {
+            "id": 5144,
+            "trackPackname": "Collab",
+            "album": "Nanahira Festival",
+            "title": "ゲーミング|Gaming☆Everything",
+            "logo": "mdb_cv_5144.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/xXLpIhFT1sM"
+        },
+        {
+            "id": 5145,
+            "trackPackname": "Collab",
+            "album": "Nanahira Festival",
+            "title": "Renji de haochi☆Denshi choriki shiyou chuka ryori 4000nen rekishi shunkan chori kanryo butouteki ryoricho☆",
+            "logo": "mdb_cv_5145.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/GB8-PTRM-s4"
+        },
+        {
+            "id": 5146,
+            "trackPackname": "Collab",
+            "album": "Nanahira Festival",
+            "title": "You Make My Life 1UP",
+            "logo": "mdb_cv_5146.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/G6Wzg_V4YfA"
+        },
+        {
+            "id": 5147,
+            "trackPackname": "Collab",
+            "album": "Nanahira Festival",
+            "title": "Newbies take 3 years, geeks 8 years, and internets are forever",
+            "logo": "mdb_cv_5147.webp",
+            "artist": "Camellia feat.Nanahira",
+            "link": "https://youtube.com/embed/5UGIbk2Mbow"
+        },
+        {
+            "id": 5148,
+            "trackPackname": "Collab",
+            "album": "Nanahira Festival",
+            "title": "Onegai!Kon kon Oinarisama",
+            "logo": "mdb_cv_5148.webp",
+            "artist": "ARM × Komso feat.Nanahira",
+            "link": "https://youtube.com/embed/6e8M6wXD9oQ"
+        },
+        {
+            "id": 6000,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "HEARTBEAT！キュンキュン！iKz feat.Warma",
+            "logo": "mdb_cv_6000.webp",
+            "artist": "iKz",
+            "link": "https://youtube.com/embed/GTyMLkqU0Bc"
+        },
+        {
+            "id": 6001,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Pop it",
+            "logo": "mdb_cv_6001.webp",
+            "artist": "Andora",
+            "link": "https://youtube.com/embed/TdIoxdZ6ZJc"
+        },
+        {
+            "id": 6002,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "No",
+            "logo": "mdb_cv_6002.webp",
+            "artist": "Rainych (prod. SPRITEWALL)",
+            "link": "https://youtube.com/embed/tj3GdzfuNMA"
+        },
+        {
+            "id": 6003,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Assault TAXI",
+            "logo": "mdb_cv_6003.webp",
+            "artist": "∀S∀",
+            "link": "https://youtube.com/embed/FM8sY3LIdu0"
+        },
+        {
+            "id": 6004,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Test Me (feat. Uyeon)",
+            "logo": "mdb_cv_6004.webp",
+            "artist": "Nerubeats",
+            "link": "https://youtube.com/embed/tpf-lxlPfe4"
+        },
+        {
+            "id": 6005,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "HIT ME UP",
+            "logo": "mdb_cv_6005.webp",
+            "artist": "Asteroid Music Team",
+            "link": "https://youtube.com/embed/u_JdcK8gu3k"
+        },
+        {
+            "id": 6006,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Niki Tousen",
+            "logo": "mdb_cv_6006.webp",
+            "artist": "uma vs. Morimori Atsushi",
+            "link": "https://youtube.com/embed/PF41cqmeh40"
+        },
+        {
+            "id": 6007,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "AlterLuna",
+            "logo": "mdb_cv_6007.webp",
+            "artist": "BlackY",
+            "link": "https://youtube.com/embed/2db0a_GZBl8"
+        },
+        {
+            "id": 6008,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Narcissism Angel",
+            "logo": "mdb_cv_6008.webp",
+            "artist": "Nyarons feat.Sanso Nakamura",
+            "link": "https://youtube.com/embed/lTWOmx1LUoY"
+        },
+        {
+            "id": 6009,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Meteor (feat. TEA)",
+            "logo": "mdb_cv_6009.webp",
+            "artist": "you",
+            "link": "https://youtube.com/embed/dmQA5QDys4g"
+        },
+        {
+            "id": 6010,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Hey Vincent. | なぁ、ヴィンセント。",
+            "logo": "mdb_cv_6010.webp",
+            "artist": "Apo11o program ft.Boningen",
+            "link": "https://youtube.com/embed/KHmXLsFL2xY"
+        },
+        {
+            "id": 6011,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Haunted Dance",
+            "logo": "mdb_cv_6011.webp",
+            "artist": "Mr.Asyu",
+            "link": "https://youtube.com/embed/ZmYXAos6eaY"
+        },
+        {
+            "id": 6012,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Blue Lemonade",
+            "logo": "mdb_cv_6012.webp",
+            "artist": "beignet (Nor + YUC'e)",
+            "link": "https://youtube.com/embed/kUqVi0FZ0j4"
+        },
+        {
+            "id": 6013,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Heartache",
+            "logo": "mdb_cv_6013.webp",
+            "artist": "technoplanet feat. Risa Yuzuki",
+            "link": "https://youtube.com/embed/Y2uiop8GFcw"
+        },
+        {
+            "id": 6014,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "All My Friends (feat. RANASOL)",
+            "logo": "mdb_cv_6014.webp",
+            "artist": "rejection",
+            "link": "https://youtube.com/embed/l4X0DRjwNEs"
+        },
+        {
+            "id": 6015,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "暮色小诗",
+            "logo": "mdb_cv_6015.webp",
+            "artist": "Kolaa/早木旋子",
+            "link": "https://youtube.com/embed/kYt2GRYkbr4"
+        },
+        {
+            "id": 6016,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "YUKEMURI TAMAONSEN II",
+            "logo": "mdb_cv_6016.webp",
+            "artist": "TamaOnSen",
+            "link": "https://youtube.com/embed/5-caidi2sLY"
+        },
+        {
+            "id": 6017,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Sanyousei SAY YA!!!",
+            "logo": "mdb_cv_6017.webp",
+            "artist": "Shinra-Bansho",
+            "link": "https://youtube.com/embed/zIi7ZgtJpX0"
+        },
+        {
+            "id": 6018,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "NICE TYPE feat. monii",
+            "logo": "mdb_cv_6018.webp",
+            "artist": "KIRA",
+            "link": "https://youtube.com/embed/RSt8yAiu4BU"
+        },
+        {
+            "id": 6019,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Time Capsule | モリモリあつし - タイムカプセル",
+            "logo": "mdb_cv_6019.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/PyZQKUdeWa8"
+        },
+        {
+            "id": 6020,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "JACK PT BOSS",
+            "logo": "mdb_cv_6020.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/26qN8oJpIg8"
+        },
+        {
+            "id": 6021,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Highway Cruisin'",
+            "logo": "mdb_cv_6021.webp",
+            "artist": "*wakadori",
+            "link": "https://youtube.com/embed/IIIUo-SsUXY"
+        },
+        {
+            "id": 6022,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Helixir",
+            "logo": "mdb_cv_6022.webp",
+            "artist": "D_AAN",
+            "link": "https://youtube.com/embed/oRb7ZuHdfWU"
+        },
+        {
+            "id": 6023,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "人鱼电台",
+            "logo": "mdb_cv_6023.webp",
+            "artist": "iKz feat.兰音Reine",
+            "link": "https://youtube.com/embed/PXmQiNzayZU"
+        },
+        {
+            "id": 6024,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "SyZyGy",
+            "logo": "mdb_cv_6024.webp",
+            "artist": "Apo11o program × Amamiya Kokoro、Eli Conifer、Ratna Petit（NIJISANJI）",
+            "link": "https://youtube.com/embed/0wRvzn5g84w"
+        },
+        {
+            "id": 6025,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Crow Rabbit",
+            "logo": "mdb_cv_6025.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/1mBskK1FTwA"
+        },
+        {
+            "id": 6026,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Is there no way I'm defeated by OTOGE-BOSS-KYOKU-CHAN is strongly provoking?????",
+            "logo": "mdb_cv_6026.webp",
+            "artist": "t+pazolite & Nanahira",
+            "link": "https://youtube.com/embed/FEkKqt_ok8c"
+        },
+        {
+            "id": 6027,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Random",
+            "logo": "mdb_cv_6027.webp",
+            "artist": "Sobrem × Silentroom",
+            "link": "https://youtube.com/embed/cOCvghiHvFo"
+        },
+        {
+            "id": 6028,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Silver Bullet",
+            "logo": "mdb_cv_6028.webp",
+            "artist": "Morimori Atsushi",
+            "link": "https://youtube.com/embed/vKV4Tvx7eUw"
+        },
+        {
+            "id": 6029,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "The Day We Become Family",
+            "logo": "mdb_cv_6029.webp",
+            "artist": "茶鸣拾贰律",
+            "link": "https://youtube.com/embed/txNAQ_A9QQU"
+        },
+        {
+            "id": 6030,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "旧梦",
+            "logo": "mdb_cv_6030.webp",
+            "artist": "iKz feat.小可学妹 & 艾因Eine",
+            "link": "https://youtube.com/embed/_R6valMZIIE"
+        },
+        {
+            "id": 6031,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Lunatic",
+            "logo": "mdb_cv_6031.webp",
+            "artist": "XinG",
+            "link": "https://youtube.com/embed/ZE7FKfYUs7E"
+        },
+        {
+            "id": 6032,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Record one's Dream",
+            "logo": "mdb_cv_6032.webp",
+            "artist": "uma vs. Morimori Atsushi",
+            "link": "https://youtube.com/embed/7pniuFmW8d0"
+        },
+        {
+            "id": 6033,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Amateras Rhythm",
+            "logo": "mdb_cv_6033.webp",
+            "artist": "Halv",
+            "link": "https://youtube.com/embed/coCAEXQOhxc"
+        },
+        {
+            "id": 6034,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Squalldecimator feat. EZ-Ven",
+            "logo": "mdb_cv_6034.webp",
+            "artist": "Tenyu",
+            "link": "https://youtube.com/embed/DScvFMnGcEI"
+        },
+        {
+            "id": 6035,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "天灵灵地灵灵",
+            "logo": "mdb_cv_6035.webp",
+            "artist": "iKz feat.小可学妹",
+            "link": "https://youtube.com/embed/qalJfQkFMD8"
+        },
+        {
+            "id": 6036,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Gospel | 福音",
+            "logo": "mdb_cv_6036.webp",
+            "artist": "wotaku feat. SHIKI",
+            "link": "https://youtube.com/embed/zKvUWegs3mI"
+        },
+        {
+            "id": 6037,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Prism Fountain",
+            "logo": "mdb_cv_6037.webp",
+            "artist": "t+pazolite",
+            "link": "https://youtube.com/embed/h16NwX5xmYA"
+        },
+        {
+            "id": 6038,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Inu no outa | イヌぱら PV - いぬのおうた",
+            "logo": "mdb_cv_6038.webp",
+            "artist": "Aiobahn feat.Nanahira",
+            "link": "https://youtube.com/embed/i80OHgDwfZI"
+        },
+        {
+            "id": 6039,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "(くいしんぼハッカ) Kuishinbo Hacker feat.Kuishinbo Akachan",
+            "logo": "mdb_cv_6039.webp",
+            "artist": "Neko Hacker",
+            "link": "https://youtube.com/embed/LenIsuEAKmo"
+        },
+        {
+            "id": 6040,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "snooze",
+            "logo": "mdb_cv_6040.webp",
+            "artist": "wotaku feat. SHIKI",
+            "link": "https://youtube.com/embed/_gWn38pnmqI"
+        },
+        {
+            "id": 6041,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "物凄い狂っとるフランちゃんが物凄いうた",
+            "logo": "mdb_cv_6041.webp",
+            "artist": "Halozy",
+            "link": "https://youtube.com/embed/_P3_YKzwLz8"
+        },
+        {
+            "id": 6042,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "DROPS (feat. Such)",
+            "logo": "mdb_cv_6042.webp",
+            "artist": "Zekk, poplavor",
+            "link": "https://youtube.com/embed/0sb3Y1ThhBk"
+        },
+        {
+            "id": 6043,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Queen Aluett",
+            "logo": "mdb_cv_6043.webp",
+            "artist": "LeaF",
+            "link": "https://youtube.com/embed/FNR6C03XKn8"
+        },
+        {
+            "id": 6044,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "AKUMU / feat.tug | 悪夢 / feat.つぐ",
+            "logo": "mdb_cv_6044.webp",
+            "artist": "Toiki.",
+            "link": "https://youtube.com/embed/LOyyQUZ91JA"
+        },
+        {
+            "id": 6045,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Diffraction",
+            "logo": "mdb_cv_6045.webp",
+            "artist": "StormWolf/Rakuda",
+            "link": "https://youtube.com/embed/leKh9_Eyh6U"
+        },
+        {
+            "id": 6046,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Sand Maze",
+            "logo": "mdb_cv_6046.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/xhiSvzVOqY0"
+        },
+        {
+            "id": 6047,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "pa pi pu pi pu pi pa | ぱぴぷぴぷぴぱ/ころねぽち",
+            "logo": "mdb_cv_6047.webp",
+            "artist": "ころねぽち With 立秋",
+            "link": "https://youtube.com/embed/L3NMu66IRrw"
+        },
+        {
+            "id": 6048,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "don't!stop!eroero!",
+            "logo": "mdb_cv_6048.webp",
+            "artist": "iKz feat.Bunny Girl Rin",
+            "link": "https://youtube.com/embed/9W3QZqDUrHY"
+        },
+        {
+            "id": 6049,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "カタリスト",
+            "logo": "mdb_cv_6049.webp",
+            "artist": "P4koo(feat.つゆり花鈴)",
+            "link": "https://youtube.com/embed/BxfAcxGgMyI"
+        },
+        {
+            "id": 6050,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Believing and Being",
+            "logo": "mdb_cv_6050.webp",
+            "artist": "hitogoto",
+            "link": "https://youtube.com/embed/VbhuFK9iR9U"
+        },
+        {
+            "id": 6051,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Smile-mileS",
+            "logo": "mdb_cv_6051.webp",
+            "artist": "onoken",
+            "link": "https://youtube.com/embed/oE2YtjgQKBo"
+        },
+        {
+            "id": 6052,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Rin",
+            "logo": "mdb_cv_6052.webp",
+            "artist": "a_hisa",
+            "link": "https://youtube.com/embed/9Zrb-yB_iJo"
+        },
+        {
+            "id": 6053,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Midnight O'clock",
+            "logo": "mdb_cv_6053.webp",
+            "artist": "mossari feat.TEA",
+            "link": "https://youtube.com/embed/"
+        },
+        {
+            "id": 6054,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "can you feel it",
+            "logo": "mdb_cv_6054.webp",
+            "artist": "MK",
+            "link": "https://youtube.com/embed/bh1HhHK4OUY"
+        },
+        {
+            "id": 6055,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "#Psychedelic_Meguro_River | #サイケデリック目黒川",
+            "logo": "mdb_cv_6055.webp",
+            "artist": "uma with Morimori Atsushi feat. masiro",
+            "link": "https://youtube.com/embed/We2PiMb1mzw"
+        },
+        {
+            "id": 6056,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "ナイト・オブ・ナイツ",
+            "logo": "mdb_cv_6056.webp",
+            "artist": "ビートまりお",
+            "link": "https://youtube.com/embed/imu9SHVIG9I"
+        },
+        {
+            "id": 6057,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "ARIGA THESIS",
+            "logo": "mdb_cv_6057.webp",
+            "artist": "MYUKKE.",
+            "link": "https://youtube.com/embed/VMcV2DhVpGg"
+        },
+        {
+            "id": 6058,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "Amatsumikaboshi | 天津甕星",
+            "logo": "mdb_cv_6058.webp",
+            "artist": "Sakuzyo",
+            "link": "https://youtube.com/embed/typBj5jsQxs"
+        },
+        {
+            "id": 6059,
+            "trackPackname": "MD Plus Project",
+            "album": "MD Plus Project",
+            "title": "The Happycore Idol",
+            "logo": "mdb_cv_6059.webp",
+            "artist": "3R2",
+            "link": "https://youtube.com/embed/29XQWk4QfjU"
+        }
+    ]
+}
