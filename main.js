@@ -19,7 +19,7 @@ class HELPER{
 class MUSEDBOX{
     #API = {
         linkTblMusicCard(){
-            return `http://localhost/musedbox/public_html/tbl-music-card.json`;
+            return `https://panca-hyooga.github.io/MUSEDBOX/tbl-music-card.json`;
         },
     };
     #config = {
