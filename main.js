@@ -1108,7 +1108,7 @@ class MUSEDBOX{
                 <div class="gchatbox-content">
                     <button class="gchatbox-close">(X)close</button>
                     <div class="gchatbox-room">
-                        <div id="disqus_thread"></div>
+                        gchatbox
                     </div>
                 </div>
             </div>
@@ -1750,7 +1750,7 @@ class MUSEDBOX{
     };
 };
 
-new MUSEDBOX;
+//new MUSEDBOX;
 
 /* document.body.innerHTML = '';
 
