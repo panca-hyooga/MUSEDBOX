@@ -22,6 +22,11 @@ class MUSEDBOX{
             return `https://panca-hyooga.github.io/MUSEDBOX/tbl-music-card.json`;
         },
     };
+    PORT = {
+        gchatbox : {
+            fillroom : Function,
+        },
+    };
     #config = {
         document_head: document.getElementsByTagName("head")[0],
         document_body: document.getElementsByTagName("body")[0],
@@ -193,7 +198,7 @@ class MUSEDBOX{
             decrement : ()=>{
                 still.css_style_changes.forEach(([entry_key, entry_val])=>{
                     entry_val['progress'] -= entry_val['adjustment'];
-                    target.style[entry_key] = entry_val['progress'] + entry_val['unit'];
+                    target.style[entry_key] = Math.max(0, entry_val['progress']) + entry_val['unit'];
                 });
             },
             reset : ()=>{
@@ -223,14 +228,14 @@ class MUSEDBOX{
             };
             const execute = ()=>{
                 cframe += 1;
-                
+
                 if(cframe >= exec_timing){
                     //this room for code that execute each frame
                     adjust();
                     exec_timing += still.time_gap_per_attemp;
                 };
                 
-                if(cframe > still.total_attemp_per_loop){
+                if(cframe >= still.total_attemp_per_loop){
                     animate.pause();
                     if(loop < iteration){
                         loop += 1;
@@ -1097,18 +1102,18 @@ class MUSEDBOX{
     };
 
     #DefineSidebarGlobalChatbox(){
-        let animation;
+        const ini = this;
 
         const gchatbox = document.createElement("div");
         gchatbox.setAttribute("id", "sidebar-gchatbox");
         gchatbox.setAttribute("tabindex", this.#tabindex.global_chatbox);
         // style="left:0%;width:0px;height:0px;opacity:0;"
         gchatbox.innerHTML = `
-            <div class="gchatbox-wrapper">
+            <div class="gchatbox-wrapper" style="visibility:hidden;">
                 <div class="gchatbox-content">
                     <button class="gchatbox-close">(X)close</button>
                     <div class="gchatbox-room">
-                        gchatbox
+                        to be filled...
                     </div>
                 </div>
             </div>
@@ -1116,64 +1121,70 @@ class MUSEDBOX{
 
         const subelement = {
             wrapper : gchatbox.querySelector(".gchatbox-wrapper"),
+            room : gchatbox.querySelector(".gchatbox-room"),
             btn_close : gchatbox.querySelector(".gchatbox-close"),
         };
 
         const indicator = {
-            check: ()=>{ //check if indicator already exist on DOM or not?
-                return !(!(this.#element.musedbox_sidebar.querySelector(`#${gchatbox.id}`))); //true or false
+            focus : ()=>{
+                gchatbox.focus();
             },
             show : ()=>{
                 this.#element.musedbox_sidebar.insertAdjacentElement("beforeend", gchatbox);
-            },
-            focus: () => {
-                gchatbox.focus();
-            },
-            hide : ()=>{
-                this.#element.musedbox_sidebar.removeChild(gchatbox);
-            },
+            }
         };
 
-        animation = this.#_ANIMATION({target : subelement.wrapper,
-            css_changes : {
-                width : {
-                    '0%' : 0,
-                    '100%' : 250,
-                    unit : 'px'
-                },
-                height : {
-                    '0%' : 0,
-                    '100%' : 350,
-                    unit : 'px'
-                },
-                opacity : {
-                    '0%' : 0,
-                    '100%' : 1
-                },
-                left : {
-                    '0%' : 0,
-                    '100%' : 100,
-                    unit : '%'
-                },
-            }, duration_ms : 200, fps: 60});
-        
-        let is_still_animating = false;
-        const toggle_visibility_global_chatbox = ()=>{
-            if(is_still_animating === false){
-                is_still_animating = true;
-                if(indicator.check() === false){
-                    indicator.show();
-                    animation.onfinish(()=>{is_still_animating = false;}).start();
-                }else if(indicator.check() === true){
-                    animation.onfinish(()=>{indicator.hide();animation.reverse();is_still_animating = false;}).reverse().start();
+        const subelement_manage = {
+            wrapper : new (function(){
+                let is_still_animating = false;
+                const animation = ini.#_ANIMATION({target : subelement.wrapper,
+                    css_changes : {
+                        width : {'0%':0, '100%':280, unit:'px'},
+                        height : {'0%':0, '100%':380, unit:'px'},
+                        opacity : {'0%':0, '100%':1},
+                        left : {'0%':0, '100%':100, unit:'%'},
+                    }, duration_ms : 200, fps: 60});
+
+                const is_visible = ()=>{
+                    return !!(subelement.wrapper.hasAttribute("data-toggle-identifier")); //true or false
                 };
-            };
+
+                this.toggle = ()=>{
+                    if(is_still_animating === false){
+                        is_still_animating = true;
+                        if(is_visible() === false){
+                            subelement.wrapper.style.visibility = "visible";
+                            animation.onfinish(()=>{
+                                subelement.wrapper.setAttribute("data-toggle-identifier","");
+                                is_still_animating=false;
+                            }).start();
+                        }else if(is_visible() === true){
+                            animation.onfinish(()=>{
+                                subelement.wrapper.removeAttribute("data-toggle-identifier");
+                                is_still_animating=false;
+                                animation.reverse();
+                                subelement.wrapper.style.visibility = "hidden";
+                            }).reverse().start();
+                        };
+                    };
+                };
+                this.fillroom = ({htmlstring})=>{
+                    subelement.room.innerHTML = htmlstring
+                };
+            })(),
         };
 
-        subelement.btn_close.addEventListener("click", toggle_visibility_global_chatbox, true);
+        subelement.btn_close.addEventListener("click", subelement_manage.wrapper.toggle, true);
 
+        indicator.show();
+
+        //global gates
         this.#gates.gchatbox = {
-            summon : toggle_visibility_global_chatbox,
+            summon : subelement_manage.wrapper.toggle,
+        };
+        //adding useable function into port. so it can be used outside this class scope
+        this.PORT.gchatbox = {
+            fillroom : subelement_manage.wrapper.fillroom,
         };
     };
 
@@ -1749,8 +1760,6 @@ class MUSEDBOX{
         };
     };
 };
-
-//new MUSEDBOX;
 
 /* document.body.innerHTML = '';
 
