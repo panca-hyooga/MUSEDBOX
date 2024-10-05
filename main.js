@@ -1074,18 +1074,22 @@ class MUSEDBOX{
             const subelement_func = {
                 openCreditPrompt : ()=>{
                     this.#gates.prompt.new().set({
-                        title: `CREDITS ----`,
+                        title: `[[MUSEDBOX]] ver.03_10_24.11_55.02 (BETA)`,
                         body: `
-                            MY CHANNEL : <br/>
+                            <h3>ABOUT</h3>
+                            <p>
+                                This app was made to list all tracks from the game of "Muse Dash", linking to music video from their original creator on youtube.<br/> 
+                                If you have any taught or concern about this app, feel free to contact me using global chat box provided here.<br/> 
+                                I will keep updating this app to add more feature, stay tuned!. <br/> 
+                                On the next update, i planning to add some new features like "autoplay" and "playlist". What do you think?
+                            </p>
+                            <h3>LINKS</h3>
                             <ul>
-                                <li><a href="https://www.twitch.tv/punchyandmenggy" target="_blank">TWITCH</a></li>
-                            </ul>
-                            LINKS : <br/>
-                            <ul>
-                                <li><a href="https://cdn.peroperogames.com/" target="_blank">CHECKOUT PEROPERO OFFICIAL WEBSITE</a></li>
-                                <li><a href="https://store.steampowered.com/app/774171/Muse_Dash/" target="_blank">BUY THE GAMES ON STEAM!</a></li>
-                                <li><a href="https://musedash.gamepedia.com/" target="_blank">MUSEDASH WIKI</a></li>
-                                <li><a href="https://www.shorturl.at/OAVil" target="_blank">CHECKOUT FULL PLAYLIST ON YOUTUBE</a></li>
+                                <li><a href="https://www.twitch.tv/punchyandmenggy" target="_blank">My TWITCH Channel</a></li>
+                                <li><a href="https://cdn.peroperogames.com/" target="_blank">Peropero Official site</a></li>
+                                <li><a href="https://store.steampowered.com/app/774171/Muse_Dash/" target="_blank">Buy The Game on Steam</a></li>
+                                <li><a href="https://musedash.gamepedia.com/" target="_blank">MUSEDASH Wiki</a></li>
+                                <li><a href="https://www.shorturl.at/OAVil" target="_blank">Muse-ic Youtube Playlist</a></li>
                             </ul>
                         `
                     }).show();
