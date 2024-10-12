@@ -1078,10 +1078,15 @@ class MUSEDBOX{
                         body: `
                             <h3>ABOUT</h3>
                             <p>
-                                This app was made to list all tracks from the game of "Muse Dash", linking to music video from their original creator on youtube.<br/> 
-                                If you have any taught or concern about this app, feel free to contact me using global chat box provided here.<br/> 
+                                This app was made to list all tracks from the game of "Muse Dash", linking to music video from their original creator on youtube.<br/>
                                 I will keep updating this app to add more feature, stay tuned!. <br/> 
-                                On the next update, i planning to add some new features like "autoplay" and "playlist". What do you think?
+                                On the next update, i planning to add some new features like "autoplay" and "playlist". What do you think? <br/><br/> 
+                                <b>DISCLAIMER</b></br>
+                                <small>
+                                This webapp is completely fanmade website, an iam not associated with any of official muse dash developer. <br/> 
+                                If you have any taught or concern about this app, feel free to contact me using global chat box provided here. <br/> 
+                                May we have a talk... <br/>
+                                </small>
                             </p>
                             <h3>LINKS</h3>
                             <ul>
