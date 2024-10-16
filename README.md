@@ -3,4 +3,4 @@ browse and play your favorite song from the game of "muse dash". I made this pro
 Feel free to visit my twitch channel to hangouts. I would love to play your favorite song!, just let me know..
 
 # System Requirement 
-- Make sure you are using the latest update of the browser that you are currently using to run the game.
+- Make sure you are using the latest update of the browser that you are currently using to run this webapp correctly.
