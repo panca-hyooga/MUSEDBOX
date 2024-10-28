@@ -527,6 +527,13 @@ button{
                                 transition: all 200ms ease;
                                 width: 25%;
                             }
+@media screen and (max-width:720px){
+            #musedbox-container > #musedbox-header > #header-logo > a{
+                height: calc(var(--header-height) / 2);
+            }
+}
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
     #musedbox-container > #musedbox-sidebar{
         position: absolute;
         bottom: calc(var(--footer-height) + 10px);
@@ -691,13 +698,13 @@ button{
                             #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-title > h3{
                                 padding:0px;
                                 margin:0px;
-                                font-size: 1.5vw;
-                                line-height: 1.8vw;
+                                font-size: 1em;
+                                line-height: 1.2em;
                                 margin-bottom: 0.3vw;
                                 user-select: text;
                             }
                             #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-title > small{
-                                font-size: 1vw;
+                                font-size: 0.8em;
                                 user-select: text;
                             }
                         #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt{
@@ -737,6 +744,28 @@ button{
                                 #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt > button > span{
                                     padding-left: 5px;
                                 }
+@media screen and (max-width:720px){
+    #musedbox-container > #musedbox-body{
+        justify-content: flex-end;
+    }
+        #musedbox-container > #musedbox-body > #music-shelf{
+            width: calc(100% - 50px);
+        }
+                        #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt{
+                            padding-right: 0px;
+                        }
+                            #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt > button{
+                                height: 100%;
+                                flex-wrap: wrap;
+                                text-align: center;
+                            }
+                            #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt > button > i{
+                                font-size: 2em;
+                            }
+                            #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt > button > span{
+                                display: inline-block;
+                            }
+}
 /* ------------------------------------------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------------------------------------------ */
     #musedbox-container > #musedbox-footer{
