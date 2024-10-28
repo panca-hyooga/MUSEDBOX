@@ -610,7 +610,7 @@ button{
     }
         #musedbox-container > #musedbox-body > #music-shelf{
             width: 50%;
-            min-width: 390px;
+            /* min-width: 390px; */
             /* box-sizing: border-box; */
             height: 100%;
         }
