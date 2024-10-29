@@ -1148,8 +1148,8 @@ class MUSEDBOX{
                 let is_still_animating = false;
                 const animation = ini.#_ANIMATION({target : subelement.wrapper,
                     css_changes : {
-                        width : {'0%':0, '100%':280, unit:'px'},
-                        height : {'0%':0, '100%':380, unit:'px'},
+                        width : {'0%':0, '100%':300, unit:'px'},
+                        height : {'0%':0, '100%':300, unit:'px'},
                         opacity : {'0%':0, '100%':1},
                         left : {'0%':0, '100%':100, unit:'%'},
                     }, duration_ms : 200, fps: 60});
@@ -1441,7 +1441,7 @@ class MUSEDBOX{
                 };
                 const shelf_half_h = ini.#gates.shelf_drawer.utilize.shelf_drawer_half__offsetHeight();
                 const calc_scroll_by_top = target_music_card.offsetTop - shelf_half_h  + (target_music_card.offsetHeight / 2);
-                ini.#gates.shelf_drawer.utilize.shelf_drawer__scrollTo({top: calc_scroll_by_top, behavior: "smooth",});
+                ini.#gates.shelf_drawer.utilize.shelf_drawer__scrollTo({top: calc_scroll_by_top, behavior: "instant",});
             };
 
             ini.#gates.shelf_drawer.utilize.shelf_drawer__addEventListener("scroll", ()=>{
