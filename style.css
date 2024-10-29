@@ -571,8 +571,8 @@ button{
                 position: absolute;
                 left: 100%;
                 bottom: 0;
-                width: 250px;
-                height: 350px;
+                /* width: 300px;
+                height: 300px; */
                 border: solid 3px #e67e22;
                 background-color: #34495e;
                 color:#fff;
@@ -744,6 +744,11 @@ button{
                                 #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt > button > span{
                                     padding-left: 5px;
                                 }
+@media screen and (max-width:1280px){
+        #musedbox-container > #musedbox-body > #music-shelf{
+            width: 80%;
+        }
+}
 @media screen and (max-width:720px){
     #musedbox-container > #musedbox-body{
         justify-content: flex-end;
