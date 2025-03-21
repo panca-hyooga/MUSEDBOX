@@ -1090,11 +1090,10 @@ class MUSEDBOX{
                             </p>
                             <h3>LINKS</h3>
                             <ul>
-                                <li><a href="https://www.twitch.tv/punchyandmenggy" target="_blank">My TWITCH Channel</a></li>
+                                <li><a href="https://www.twitch.tv/punchyhyooga/" target="_blank">My TWITCH Channel</a></li>
                                 <li><a href="https://cdn.peroperogames.com/" target="_blank">Peropero Official site</a></li>
                                 <li><a href="https://store.steampowered.com/app/774171/Muse_Dash/" target="_blank">Buy The Game on Steam</a></li>
                                 <li><a href="https://musedash.gamepedia.com/" target="_blank">MUSEDASH Wiki</a></li>
-                                <li><a href="https://www.shorturl.at/OAVil" target="_blank">Muse-ic Youtube Playlist</a></li>
                             </ul>
                         `
                     }).show();
