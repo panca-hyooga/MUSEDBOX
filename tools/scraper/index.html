@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCRAPER | Muse Dash Music Data Scraper</title>
+    <script src="script.js" defer></script>
+    <style>
+        .textareawrapper{
+            display: flex;
+            flex-direction: row;
+            border: solid 10px #7d7d7d;
+            border-radius: 2px;
+            box-sizing: border-box;
+            height: 500px;
+        }
+        textarea{
+            flex: 1;
+            resize: none;
+        }
+        button{
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <input id="input-track-packname" placeholder="please input track packname">
+    <input id="input-starting-ids" placeholder="id's decremental will start from...">
+    <h2>scrapping</h2>
+    <button id="button-scrap-submit">Proceed</button>
+    <div class="textareawrapper">
+        <textarea id="textarea-scrap-source" placeholder="put html source here"></textarea>
+        <textarea id="textarea-scrap-result" placeholder="you will see the result here"></textarea>
+    </div>
+    <h2>replacer</h2>
+    <button id="button-replace-submit">Proceed</button>
+    <div class="textareawrapper">
+        <textarea id="textarea-replace-source" placeholder="put html source here"></textarea>
+        <textarea id="textarea-replace-result" placeholder="you will see the result here"></textarea>
+    </div>
+</body>
+</html>

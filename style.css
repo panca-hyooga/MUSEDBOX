@@ -15,7 +15,7 @@ html,body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    font-family: 'Comic Sans MS', cursive !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
     background-attachment: fixed;
 }
 button{
@@ -529,7 +529,7 @@ button{
                             }
 @media screen and (max-width:720px){
             #musedbox-container > #musedbox-header > #header-logo > a{
-                height: calc(var(--header-height) / 2);
+                height: calc(var(--header-height) / 1.2);
             }
 }
 /* ------------------------------------------------------------------------------------------------------------------------------------------------ */
@@ -547,10 +547,16 @@ button{
             #musedbox-container > #musedbox-sidebar > .mdb-sidebar-wrapper > button:hover{
                 font-size: 30px;
             }
+            #musedbox-container > #musedbox-sidebar > .mdb-sidebar-wrapper > button#mdb-sidebar-btn-patch-note{
+                border: solid 3px #f0310b;
+                background-color: #d02b0a;}
+            #musedbox-container > #musedbox-sidebar > .mdb-sidebar-wrapper > button#mdb-sidebar-btn-credit{
+                border: solid 3px #9cf00b;
+                background-color: #7ec602;}
             #musedbox-container > #musedbox-sidebar > .mdb-sidebar-wrapper > button{
                 margin-top: 10px;
-                border: solid 3px #e67e22;
-                background-color: #d35400;
+                border: solid 3px #0ba4f0;
+                background-color: #058ed2;
                 border-radius: 3px;
                 color: #fff;
                 height: 40px;
@@ -706,6 +712,16 @@ button{
                             #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-title > small{
                                 font-size: 0.8em;
                                 user-select: text;
+                            }
+                            #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-title > h3 button,
+                            #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-title > small button{
+                                border: none;
+                                background: none;
+                                outline: none;
+                                font-size: 20px;
+                                padding: 0px;
+                                margin: 0px;
+                                user-select: none;
                             }
                         #musedbox-container > #musedbox-body > #music-shelf > ul#shelf-drawer > li.music-card > .musicc-wrapper > .musicc-opt{
                             display: flex;
