@@ -19,7 +19,7 @@ class HELPER{
 class MUSEDBOX{
     #API = {
         linkTblMusicCard(){
-            return `https://panca-hyooga.github.io/MUSEDBOX/tbl-music-card.json`;
+            return ENVAR.links["tbl-music-card.json"];
         },
     };
     PORT = {
@@ -1048,6 +1048,7 @@ class MUSEDBOX{
         sidebar.setAttribute("id", "musedbox-sidebar");
         sidebar.innerHTML = `
             <div class="mdb-sidebar-wrapper">
+                <button id="mdb-sidebar-btn-patch-note">&excl;</button>
                 <button id="mdb-sidebar-btn-credit"><i class="icofont-newspaper"></i></button>
                 <button id="mdb-sidebar-btn-chat"><i class="icofont-ui-text-chat"></i></button>
             </div>
@@ -1066,25 +1067,50 @@ class MUSEDBOX{
         const onload = (()=>{
             //store element node of any child element in sidebar.
             const subelement = {
+                btn_patch_note : sidebar.querySelector("#mdb-sidebar-btn-patch-note"),
                 btn_credit : sidebar.querySelector("#mdb-sidebar-btn-credit"),
                 btn_chat : sidebar.querySelector("#mdb-sidebar-btn-chat"),
             };
 
             //prepare function for each button in sidebar
             const subelement_func = {
+                openPatchNotePrompt : ()=>{
+                    this.#gates.prompt.new().set({
+                        title: `~~ RECENT UPDATES ~~`,
+                        body: `
+                            <h3>[[MUSEDBOX]] ver.03_10_24.11_55.02 (BETA)</h3>
+                            <p>
+                                Initial release
+                            </p>
+                            <h3>[[MUSEDBOX]] ver.05_08_25.21_17.01 (BETA)</h3>
+                            <p>
+                                Some new changes and features :
+                                <ol>
+                                    <li>Patch note window.</li>
+                                    <li>Edit text on about window.</li>
+                                    <li>Adding "One-click-copy" button for user to be able to copy the title or author of a song instantly.</li>
+                                    <li>About 100 new song has been added to library.</li>
+                                    <li>Adjust the music card display order.</li>
+                                    <li>Changing the default font family and size.</li>
+                                    <li>Adjust the site logo responsiveness to different screen view.</li>
+                                </ol>
+                            </p>
+                        `,
+                    }).show();
+                },
                 openCreditPrompt : ()=>{
                     this.#gates.prompt.new().set({
-                        title: `[[MUSEDBOX]] ver.03_10_24.11_55.02 (BETA)`,
+                        title: `~~ ABOUT THIS APP ~~`,
                         body: `
-                            <h3>ABOUT</h3>
                             <p>
                                 This app was made to list all tracks from the game of "Muse Dash", linking to music video from their original creator on youtube.<br/>
                                 I will keep updating this app to add more feature, stay tuned!. <br/> 
                                 On the next update, i planning to add some new features like "autoplay" and "playlist". What do you think? <br/><br/> 
                                 <b>DISCLAIMER</b></br>
                                 <small>
-                                This webapp is completely fanmade website, an iam not associated with any of official muse dash developer. <br/> 
+                                This webapp is completely fanmade website, i'am not associated with any of official muse dash developer. <br/> 
                                 If you have any taught or concern about this app, feel free to contact me using global chat box provided here. <br/> 
+                                or, just contact me via my email : martayo5@outlook.com
                                 May we have a talk... <br/>
                                 </small>
                             </p>
@@ -1104,6 +1130,7 @@ class MUSEDBOX{
             };
 
             //attach each function into the button. to where it should be.
+            subelement.btn_patch_note.addEventListener("click", subelement_func.openPatchNotePrompt, true);
             subelement.btn_credit.addEventListener("click", subelement_func.openCreditPrompt, true);
             subelement.btn_chat.addEventListener("click", subelement_func.openGlobalChatbox, true);
         })();
@@ -1331,6 +1358,22 @@ class MUSEDBOX{
                             throw new Error("fetch tabel music card json failed....");
                         };
                         data = result.content;
+
+                        //loop throught all data to do some data validation.
+                        data.forEach(datas => {
+                            //make sure all trackpackname are matching with the interface
+                            if(!datas.trackPackname || !this.morpher.is_trackPackname_includes(datas.trackPackname)){
+                                throw new Error(`data with id ${datas.id}, having a wrong trackpackname and its doesnt match with interface.`);
+                            };
+                            //and make sure there is no duplicated id
+                            const lookdata = data.find(_ => _.id === datas.id && _.title !== datas.title);
+                            if(lookdata){
+                                console.log('duplicated id found on these entries below : ');
+                                console.table([{id:datas.id, title:datas.title},{id:lookdata.id, title:lookdata.title}]);
+                                throw new Error('duplicated id found');
+                            };
+                        });
+
                         callbacks.forEach(function_definition => {function_definition();});
                         //prevent doing more initialization, because it can be done only one time.
                         this.initialization = undefined;
@@ -1544,11 +1587,11 @@ class MUSEDBOX{
 
             music_card.innerHTML = `
                 <div class="musicc-wrapper">
-                    ${check_link !== true ? '<div class="musicc-curtain"><h4>NOT AVAILABLE YET (&gt;.&lt;)</h4></div>' : ''}
+                    ${check_link !== true ? '<div class="musicc-curtain"><h4>Currently Preparing The Link (&gt;.&lt;)</h4></div>' : ''}
                     <div class="musicc-cover" style="background-image:url(${this.#config.musiccover_path}${data_img_name_extension})"></div>
                     <div class="musicc-title">
-                        <h3>${data_title}</h3>
-                        <small>Author : ${data_author}</small>
+                        <h3><span>${data_title}</span> <button>&#x1F4CB;</button></h3>
+                        <small>Author : <span>${data_author}</span> <button>&#x1F4CB;</button></small>
                     </div>
                     <div class="musicc-opt">
                         <button class="musicc-play-tv" type="button" ${check_link !== true ? 'disabled' : ''}><i class="icofont-duotone icofont-screen"></i> <span>Play</span></button>
@@ -1560,6 +1603,18 @@ class MUSEDBOX{
                 music_card_func.zfocus_targeted(music_card);
                 ini.#gates.tv.show({embedlink: modifier.read_music_card_link(music_card)});
             }, true);
+
+            music_card.querySelectorAll('.musicc-title button').forEach(button => {
+                button.addEventListener('click', function(e){
+                    const innertext = this.parentElement.querySelector('span').innerText;
+                    navigator.clipboard.writeText(innertext);
+                    ini.#gates.alert.new().show({
+                        type : "success",
+                        message : `<b>"${innertext}"</b></br><i>successfully copied into clipboard!</i>`,
+                        timeout_millisecond : 1500,
+                    });
+                });
+            });
 
             this.#gates.shelf_drawer.shove(music_card);
         };
@@ -1768,21 +1823,3 @@ class MUSEDBOX{
         };
     };
 };
-
-/* document.body.innerHTML = '';
-
-
-        
-for(let i=1000;i<1200;i++){
-    document.body.innerHTML += `
-        {
-            "id" : ${i},
-            "trackPackname" : "Concept Pack",
-            "album" : "",
-            "title" : "",
-            "logo" : "mdb_cv_${i}.webp",
-            "artist" : "",
-            "link" : ""
-        },
-    `;          
-}; */
